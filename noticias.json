@@ -1,11 +1,605 @@
 {
-  "generated_at": "2026-11-19T14:27:31.370347Z",
+  "generated_at": "2026-11-19T17:54:27.573093Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 195,
+  "new_articles": 221,
   "errors": [],
   "articles": [
+    {
+      "id": "583989ea85d86b84a2df9808",
+      "title": "Depreciación abrupta del tipo de cambio pondrá en riesgo la inflación, según minuta de Banxico; la tasa de interés bajó a 6.25% - El Universal",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQZ1dWRy1jN2JzZ2d0MFlVOXh1OUY3OU9zUl8xRjRseldXeEhwRHgwcy00QXdwak1faHYxd0ZHby15dE1sR2t0bWluTVNiTUdVeWN2dXpkT1ZPMjA1ZDlxS2pjTWRpelpyUHZVc3BPdUw2S3c0NUEwSlhSbklJU051bHM2ZHdONG5ZX0g3UndoeHRDSmQ5Znk3MW8wWjVFdU5jU0JuN2wtRGgzakJsdFV0aWJVUUNoOHhvYW9BTTNKYmQwbE01c2NCb3hqbHNkX1FITUY3T3RaYXBtSzZNNTllaS1DOHdSNjdKTl94bTJSUllscV9oYXfSAYoCQVVfeXFMTXBHRkxRUGZoTGkyUHpLQUE4Y3luRzZ2ejZFbmhyRzVLLTRfWFdhV0pWVDFvUk55WEw2QnFkTkhSWlkyd3duS0J0a1lSajVNTm9ZWkpTeHJSWF9STUhiLUplLS03YnNteWdMY2RBNldWclVjX01PZDZfUmlTLURkYXdvaGFpeE1hcnRUUWZJdDE0bmd0aVh4TDhTdi1RTDFGMUR6a29ETHp1bXN2RDQ4cDF6VXIyQ2RIT1haT3lTc0RoY0FnMnN4a2xnZHZ5SFl3a0R3VUg1TnUwcEVRNlhXbFJLa2RsZGtwLVdiWUppNllFUkUzdEF4RUJaVzhSV2pPdFltMTR5N2F5V0E?oc=5",
+      "source": "El Universal",
+      "category": "México",
+      "published_at": "2026-11-19T17:48:31Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "576bcea544628f381912c7e4",
+      "title": "AMD Is Actually Cheap With Projected Earnings Now Costing Less Than 50 Cents on The Dollar",
+      "url": "https://247wallst.com/investing/2026/11/19/amd-is-actually-cheap-with-projected-earnings-now-costing-less-than-50-cents-on-the-dollar/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:45:22Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "6203dcfa04831fa2c8e0d683",
+      "title": "$310 And Falling: Why Nvidia’s Turmoil and AI Server Margin Pressure Are Dragging Dell Lower Before Earnings",
+      "url": "https://247wallst.com/investing/2026/11/19/310-and-falling-why-nvidias-turmoil-and-ai-server-margin-pressure-are-dragging-dell-lower-before-earnings/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:45:06Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "5e2a1f37b31dfec30bb13c99",
+      "title": "Why AMD Stock Was Plunging on Thursday",
+      "url": "https://www.fool.com/investing/2026/11/19/why-amd-stock-was-plunging-on-thursday/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:43:43Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "23b5e412aac14167ee7b5b92",
+      "title": "Cerebras Is Targeting a 3x Revenue Jump in 2027. Is the Stock a Buy?",
+      "url": "https://www.fool.com/investing/2026/11/19/cerebras-targeting-3x-revenue-jump-2027-is-the-stock-a-buy/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:43:02Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "1998f05758a759865603b987",
+      "title": "Anthropic's mega-IPO is still leaving investors working with 'imperfect information'",
+      "url": "https://finance.yahoo.com/video/anthropics-mega-ipo-is-still-leaving-investors-working-with-imperfect-information-174108134.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:41:08Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "d28f29c6208b5d582b3f1cde",
+      "title": "Anthropic begins public trading at $2tn valuation after largest-ever IPO",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-begin-public-trading-1-130048474.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:36:14Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "6b98bafefb989dc2c6228cbb",
+      "title": "Is Snap Stock Ready For Shrinking Ad Sales?",
+      "url": "https://www.trefis.com/stock/snap/articles/626849/is-snap-stock-ready-for-shrinking-ad-sales/2026-11-19?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:35:55Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7f58b0ea5d893f9538899f0f",
+      "title": "Jensen Huang's — and Nvidia's — legal exposure balloons",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-jensen-huang-legal.html",
+      "source": "CNBC / Politics",
+      "category": "Política",
+      "published_at": "2026-11-19T17:32:50Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "0cce1df134f3b9f7cefb4cf7",
+      "title": "Dario Amodei proclama la \"obsesión\" por la seguridad y el interés público en el debut de Anthropic - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNC1sNUpidzVFbEkyMUFTWTNOUTJOdktaNUZHTXZKWTAwTEstRUtwVFpHUmVGMHpIeHBhclNheW5pb05scUR6MU5WM1lvMDhuUnllV3BlWVpPdV9ZcGRZbVFaS2ZmNkx1dHM3b2ppb054Q0FxNi1PaUc4QXE0TlFLRmtrOGFhSTJidGpfX21GR1I2eUVSbTlraGJRVXFzU1Vmb1J2eGVJLTVXemlyWmEzSUk5MnA2WnZKeTdzUDhlSzR0THdkbFY0bHpibllVUm_SAdQBQVVfeXFMTkxkamdrdklQeVZJd1owWVowMXJfc1RzT0lzVEVjd05mblhvcmRtejFxcmNKSGVFU0piS3RaM1ZjRFhjZWF3aTJJZ1FhUm9nTjNmVGNIeUt0ZmctbTBwazF6cktPaHFVM2VxWENNdi11R25Jai01SXN0ZXFPeE9jaHZ5UVRIbVZ6Nl9VZ3hBdlVqUGhZQ0J1WUQ2OVM0Ylg4WjVxWERUMGhrM0ZRU3d1amVVQ0tjQTN4WlhPaGQ3ZENWS0U3d0lHeFBqcTFqbngwVmgxbzk?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T17:32:29Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "1212c0bc256c1184a33636e8",
+      "title": "Strategy Just Got Dropped From MSCI’s Indexes. Can It Keep Buying Bitcoin?",
+      "url": "https://www.fool.com/investing/2026/11/19/strategy-just-got-dropped-from-msci-s-indexes-can-it-keep-buying-bitcoin/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:32:02Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "994d8596d338015c4a9259a6",
+      "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
+      "url": "https://finance.yahoo.com/technology/ai/article/memory-supply-constraints-will-be-even-tighter-in-2027-micron-cto-173141999.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:31:41Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "2ceefc4b42fb164d3c0d8a8c",
+      "title": "Anthropic's $107 billion sale set to top SpaceX's IPO",
+      "url": "http://videos.coindesk.com/previews/BhlN2Ycv?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:30:34Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "e964ee4ee63a4225e26981bd",
+      "title": "Broadcom Stocks Rise 4.21% as Chip Supplier Joins Anthropic's $26 Billion Placement",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-rise-4-21-173026533.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:30:26Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "3dd3fb0495020de65f4e855a",
+      "title": "AI Winner Bloom Energy Has 35% Room To Run After Doubling: Analyst",
+      "url": "https://finance.yahoo.com/m/e6810641-54d9-3e3f-9d08-c1caa9133bba/ai-winner-bloom-energy-has.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:29:21Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "48f23c1dda0a4934f3fd6abd",
+      "title": "Anthropic Just Raised $81 Billion in the Biggest IPO Ever, Ahead of SpaceX. But Is It the Better Buy?",
+      "url": "https://www.fool.com/investing/2026/11/19/anthropic-just-raised-usd81-billion-in-the-biggest-ipo-ever-ahead-of-spacex-but-is-it-the-better-buy/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:29:01Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "ab20c7977d9cec33205e02d9",
+      "title": "Nvidia reportedly approaches Arm CEO Rene Haas in search for Jensen Huang successor",
+      "url": "https://www.proactiveinvestors.com/companies/news/1102138/nvidia-reportedly-approaches-arm-ceo-rene-haas-in-search-for-jensen-huang-successor-1102138.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:28:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "29dd521073414158e84243fb",
+      "title": "The Stocks That Win From Anthropic's IPO",
+      "url": "https://www.fool.com/investing/2026/11/19/the-stocks-that-win-from-anthropics-ipo/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:27:42Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "6efce133482d337a51bc61a3",
+      "title": "SpaceX Offers a Clue to What Anthropic’s IPO Could Mean for QQQ Holders",
+      "url": "https://247wallst.com/investing/etf/2026/11/19/spacex-offers-a-clue-to-what-anthropics-ipo-could-mean-for-qqq-holders/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:27:07Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7b52407d80af2512834b35e9",
+      "title": "A $13 Billion Hedge Fund Just Bought These 3 Stocks",
+      "url": "https://www.tikr.com/blog/a-13-billion-hedge-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261119-jvwhvxxf&.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:26:56Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "f0d11a2507b4a16f7a09586d",
+      "title": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaWFyU3l6d3lJdVV5OG1QbTFQSFo2Q1FuTmlGTkhSZTRnazN5eDU2SmQ0NUF5V0FHemhCZThhcVpzalp4am15RVlGZ1BxcjVYa3ljc3N3dllEMjFmNG14ejJzNnQwOTZzMWU1MF9NMWNuNEFncmM4WG9vYkdaRnJCM1FNd1FPUjkxUjZqRDRjMXVXQmdyZF9mR19FSm8yajFmWm1jWXRWZHgxeFBRVElIeEx4WEtBVmFTM3YySk1qU3VSNGdCQVhfNFBqWG9qS1REOHhrOWRsY1JwUWRlTXJkNzJ2cw?oc=5",
+      "source": "The Washington Post",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T17:26:51Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "56c52325893835f99aae3755",
+      "title": "Chip Stocks Waver On Anthropic IPO, AI Prospects",
+      "url": "https://finance.yahoo.com/m/cc197e22-85d3-3a44-97b9-12111805ce48/chip-stocks-waver-on.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:26:44Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "5982cb209ba42a40f47cc21a",
+      "title": "Why Did Netskope Stock Move?",
+      "url": "https://www.trefis.com/stock/ntsk/articles/626890/why-did-netskope-stock-move/2026-11-19?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:26:24Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "1feb3a53da5ec441828ab6d8",
+      "title": "A $93 Billion Hedge Fund Just Bought These 3 Stocks",
+      "url": "https://www.tikr.com/blog/a-93-billion-hedge-fund-just-bought-these-3-stocks?ref=yahoofinance&tlnk=yf-261119-6p4hrv8g&.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:26:22Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "8a0a207335eb0a8e48074415",
+      "title": "UnitedHealth’s stock keeps plunging after government signals crackdown on Medicare Advantage fraud",
+      "url": "https://www.marketwatch.com/story/unitedhealths-stock-keeps-plunging-after-government-signals-crackdown-on-medicare-advantage-fraud-c4770a45?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:26:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "1943e8610cc46982de0afdd1",
+      "title": "Being Bearish on Anthropic: $1 Trillion Compute Bill and Nvidia turmoil",
+      "url": "https://finance.yahoo.com/video/being-bearish-on-anthropic-1-trillion-compute-bill-and-nvidia-turmoil-172453054.html?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:24:53Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "54ecf629cb39a020b4ab6640",
+      "title": "A CoreWeave co-founder just made an unconventional $30 million wager on its battered bonds",
+      "url": "https://www.marketwatch.com/story/a-coreweave-co-founder-just-made-an-unconventional-30-million-wager-on-its-battered-bonds-5586b0e9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:21:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "c376cf88046919b06021e78c",
+      "title": "US weekly jobless claims edge up, but labor market remains resilient - Tri-City Herald",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1pyNW02cFFrV1dLSlJmMXNaZkhZcGRVMzdjc2dZWWZkaVhCNHJ1M1VULU9mbFhhaHZCVXY4WXNSRFdTb1BUblhPbTVTeUdSNER3ZUNYX2tGNHJycGh3RmpLcHpyRFdHZDJhNHMzOVpnTENWYXJOMDN2ek4tODNSWThyRDUtZw?oc=5",
+      "source": "Tri-City Herald",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T17:20:10Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "487687956a3c8ef8064f1a7f",
+      "title": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBNM2FWbUpaVjFvUDVNaE4zdVJfdjQyYkoxQnlCdmFDVzVOLVpQdWxxMUd4LWhZT1dCQzF5dFBtRlFSWl9KQkU4RlBtUXcwZkhKUUxiVzA2SzJ3OWlUZDcyUENNTnNUbGtFZE5kUG0zRQ?oc=5",
+      "source": "Baltimore Sun",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T17:19:35Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7450900b6f49c800f460b50c",
+      "title": "If You Have $1,000 to Invest Right Now, Here's the 1 ETF I'd Buy Without a Second Thought",
+      "url": "https://www.fool.com/investing/2026/11/19/if-you-have-1000-to-invest-right-now-heres-the-1-etf-id-buy-without-a-second-thought/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:13:02Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "8cbf7cd32a1579960819aae5",
+      "title": "Anthropic supera los 2 billones de dólares en valor de mercado en su debut en el Nasdaq - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcHV2Y2I0bkhSa1hyUFlCNXZRN2J0VmVaOXhTcVRhcW90ejgzanNlSEZvc0txRzI4b1lNWlRPeGNidXVJTVFLY1FhbXBGVlVBZ2Q2Q0lTT3pOeU10bW5tZUVkNHBXaU81MUk5S3pEZEViM1FNVGZOWVZ5V2djOEczVUdnWGVkSU12LURZTEFMOFUtUE5sSkxIdmtTMTdhaV90NkZUTGczRHRfYVlKYmphWTdqcFRkeW9EcVhsZUFrcFZMd9IBxwFBVV95cUxQWHpXclFDMjRrMkhaYWs3X1BaejQ4ZjVyVkY0LS1RbzNzVlM3eG1YM29ta1Ffa1A4YkRzUnZrNzRTSVBYaGUwaC11di1JS1M1X01NQ1dZR1JrLWZzRF9jbTMxSGxwcjhrME9uZ3ZoTnE0MExTM0k1Mmh3WjVDakFUdzVqQm1nLUFKQTZzYTYtMDJDWHJLRTh5aXFpMFM2YTB2bnV6aW1ZUEFyamRqOUhUd1FOWlJoNmh3MWxYM0N3bGsydU8tV0Nr?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T17:10:37Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "c4d25f50b61becfd5fc21c0e",
+      "title": "Do Nvidia, Alphabet, Meta Drops Hurt Your Index Fund?",
+      "url": "https://www.trefis.com/stock/nvda/articles/626700/do-nvidia-alphabet-meta-drops-hurt-your-index-fund/2026-11-19?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:10:08Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "35abaa52fff788b1679c7c59",
+      "title": "Buying an AI IPO like Anthropic could be a leap of faith",
+      "url": "https://finance.yahoo.com/video/buying-an-ai-ipo-like-anthropic-could-be-a-leap-of-faith-170952922.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:09:52Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "4cc61727d418d37305913afe",
+      "title": "Should You Buy Clorox Stock At This Price?",
+      "url": "https://www.trefis.com/stock/clx/articles/626732/should-you-buy-clorox-stock-at-this-price/2026-11-19?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:06:03Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "16dffdc8aaa5755d3465d17f",
+      "title": "Stock Market Today: Indexes Fall As Anthropic Starts Trading; These Players Hit Sell-Rule Alarms (Live Coverage)",
+      "url": "https://finance.yahoo.com/m/81d1d9ec-afbb-3e6f-882b-7e094a9a305e/stock-market-today%3A-indexes.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T17:04:31Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "3cfb0ac54931915b2cdb585d",
+      "title": "Mortgage Rates Surge Again As Stubborn Inflation Ends Brief Reprieve - Realtor.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFZOY0VKaHRrbEFzZkctWHl6Z1hnVzZXSktIdk5tZGRocmFreHppb0dxRTNpWEc4azVOeHlwTDdrZVJZQVgtcWQyT3V6Wl8wYl80a2lwbHhtX01RUXNGdXpGYlplQThsM3RUWmFENjY4MXF5aUswaEh1NU5Ha2ZvMDRhZk4?oc=5",
+      "source": "Realtor.com",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T17:00:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "ab032919974e355eb066178f",
+      "title": "Accelerating Azure Growth and Copilot Adoption Fuel Microsoft Corp.’s (MSFT) AI Momentum",
+      "url": "https://finance.yahoo.com/technology/ai/articles/accelerating-azure-growth-copilot-adoption-165958924.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:59:58Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "81ab12a9856a9cdff46bc9e0",
+      "title": "Why Intel Stock Is Gaining Today",
+      "url": "https://www.fool.com/investing/2026/11/19/why-intel-stock-is-gaining-today/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:59:01Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "8e503766d06a956336a6ac47",
+      "title": "TransDigm Group (TDG) Beats Expectations in Q3 but Faces a Valuation Reset",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/transdigm-group-tdg-beats-expectations-165604822.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:56:04Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "bdab35a4fa431a3a4421e3c4",
+      "title": "Why Micron Stock Is Up Today",
+      "url": "https://www.fool.com/investing/2026/11/19/why-micron-stock-is-up-today/?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:56:02Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7aa1ad5f129261d4ea194bf4",
+      "title": "Anthropic officially IPOs on the Nasdaq — with shares at $111.50",
+      "url": "https://finance.yahoo.com/video/anthropic-officially-ipos-on-the-nasdaq--with-shares-at-11150-165430395.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:54:30Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "8e933dc36ab2204be80995c8",
+      "title": "AMD falls on short-seller report of alleged China exposure",
+      "url": "https://www.cnbc.com/2026/11/19/amd-falls-on-short-seller-report-of-alleged-china-exposure.html",
+      "source": "CNBC / Investing",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:53:47Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "f241054b0c43177df0c6ed10",
+      "title": "Record-negative dealer gamma and what it means for the S&P 500",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/record-negative-dealer-gamma-means-165316547.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:53:16Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "ae41cb05d8b87d4aeb67665a",
+      "title": "Anthropic is coming to your 401(k). Love it or hate it, AI is becoming a bigger part of your financial plan.",
+      "url": "https://www.marketwatch.com/story/anthropic-is-coming-to-your-401-k-love-it-or-hate-it-ai-is-becoming-a-bigger-part-of-your-financial-plan-2e9ae533?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:53:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7e3b830f8c4746e2e773ca13",
+      "title": "Multiple Compression Weighs on Applied Materials (AMAT) in Q3",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/multiple-compression-weighs-applied-materials-164926922.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:49:26Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "b4bdac8165ba23a109d9fe9c",
+      "title": "Anthropic’s IPO poses this big risk to an already shaky stock market",
+      "url": "https://www.marketwatch.com/story/anthropics-ipo-poses-this-big-risk-to-an-already-shaky-stock-market-83ce7794?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:49:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "63d395b851bf042c423123b3",
+      "title": "Sector Rotation Dragged Eli Lilly (LLY) Down in Q3 Despite Intact Momentum",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-rotation-dragged-eli-lilly-164316880.html?.tsrc=rss",
+      "source": "Yahoo Finance / Índices",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:43:16Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "590c297737ebe8bcebbb2be0",
+      "title": "¿Hasta dónde llegará el dólar? El peso mexicano enfrenta nuevos riesgos por Banxico - El Cronista",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOaG5hckVaOHNxM1g3MVpsXzMxdlVlN0FOZkhLdFpjMjVlR0NWbmVRZ3NSZEVTdnR1d1RKOFdnc3lpalFmRlo2ZFpGYnB2Q05STGptVW1YbDR3YXVUOHhFbGw5MERuOWlKeDAxeDVaQ3ZqZW9lXy1RVHRpdUZISk1MXzB0TkJKVzhSc3FjOFlsS2dJR1pGTEFRLThzNzlBOVI0RFNJd3RCY3Z5RjFkSEIzTHJBZUxHZDNjTE84OTRoa253aEMzYTFja3Rfb2VIMVQwTXc0dy1pVdIB8gFBVV95cUxPdVhfQ3ZBcXg3dmhZYnB5ZVQtTkMxUVhnWXJDaGV0eHdNcjBXSGlpdEFvSkFBSXVZUlZpQnJ6d3JRcEw5bjh2ckpGcXgyVUFXVTRKd21SOGM2ZzctdUlmRUZ0U1RwRzd0dXE4cnMzVXdjQVdFUHFGWXFlUnRCSDk0UmtFczJHaEhuekU3TWxTTloyd19mZzIzeDdhRXY1NHJZVkFCTFEzdVpnSVczTmdjNVdIV1ZWWU1SVnM1MzJMSVM5LVd1eFhmdGFOc25vOUw5d3VXUEVHMDJIdEFyaUxJY3IxbG95NllGMFJmUjJIZkQydw?oc=5",
+      "source": "El Cronista",
+      "category": "México",
+      "published_at": "2026-11-19T16:23:46Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "17ca89a3b40742a96417942a",
+      "title": "Ingresos de administraciones locales en México, “caja negra”: Oxfam - La Jornada",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUlHVXZYVVI3TVRuVWROZmV1dGtyYTExaWpFUWJ1WVhrbnJBYjBQODBjMURDSW1SRHJOOEp2Y3FqQUlldmtlWDVlTkhtSkFrbVpZMFZrWk5nWFNlYTBoZngxLUtGRTRkdHBoQWdtOUp5MkU2S0l6dUdzeGctWUR0dXZUbU82NUd3aERvQnV1dndNNkoya29CTWU1Vld3aWczbkdBVDdhRUxfTEdIX1NVdEs5UEduMHJ4Nmc?oc=5",
+      "source": "La Jornada",
+      "category": "Política",
+      "published_at": "2026-11-19T16:22:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "cfc97a40c2b90127db7b36d9",
+      "title": "Want to create more competition in grocery delivery? Let DoorDash and Instacart merge.",
+      "url": "https://www.marketwatch.com/story/want-to-create-more-competition-in-grocery-delivery-let-doordash-and-instacart-merge-10505ad0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:21:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "70c500a5d28b9c23a3c2a8a8",
+      "title": "Peso mexicano extiende declive a 18.93 unidades por dólar; espera minutas Banxico - Xpectro FM",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjJZNUhGelJzeTFndnNocUtIMUp6R0dJMWdqbjAzZHdCNENsQk5kTk1ucWhhNm5uTGQ1MERUdlMyTDBlcUlDdkNkWnM4ZzBhRUIzdUdqWDV2bWpjdmpWRkoyYXhwVzZ3ZDlGMzdoUGx2Rk5qR2VpcDEwamtMM0pGd0RZeW1DOTlXZ1NXNlJCUU1iSHNRUjRXYk5pRnFiVzdDZDZaZGFB?oc=5",
+      "source": "Xpectro FM",
+      "category": "México",
+      "published_at": "2026-11-19T16:16:38Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "98eea4ef6389f0edfd096753",
+      "title": "Gold Steadies Near 14-Month Low as Fed Signals More Rate Hikes - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQXdmV3hhblFoX2xZNXU1UVFXemNQdDJXUlpqV3o3bmxiNUVxNTFWRkVRektBa1o0d1N2LWhFcWJYZ0VYWWUydHhnVjFrQ3VYOUI1Z25abXdHV0JucmhFcTFBZTNKSjR6WXB1MnFVanVTekJxY2cyNG9HdzB4NlkyTUtaM3N5bFQwSVd5UGQwaHJNNlRNUU5KU2tCOU5uaEVoRXY5cUhEMHBtZEtxY1B2VkRtRQ?oc=5",
+      "source": "Bloomberg.com",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T16:15:42Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "f99faa579e1e3440db24d5a0",
+      "title": "We’re in our 50s and terrified of a market crash. Should we put $400,000 of our $1 million retirement savings into an annuity?",
+      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:15:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "a2810fa770f9fa48f1e8ce6d",
+      "title": "‘Buyers are out for blood’: With home sales at a record low, buyers are calling the shots",
+      "url": "https://www.marketwatch.com/story/buyers-are-out-for-blood-as-housing-market-finally-hits-rock-bottom-fa5093a6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:14:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "815b336192ee1ae1f787b8f0",
+      "title": "Nvidia, Broadcom, Micron stocks rise leading up to Anthropic's first trade - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVnNUNzc2OEpRbzJZSGRhUXFZdU1zZEVaRFBSeWUtWkxLdllWb055aVlBQXFZNjg2bzNwUjV0TzlUU2luRmZsd0lPWWJGc016dnRQZGJhUWM4dDZ3eWNqZlFnUWZSa2Z4aUF4Rmw0N1Y3T1VQTmVEOWFjcllUVU9PeVpjZzMybXdzT2hlV0tqTVd4UE0wWkFzZG1weVZJdzJ0RXFDM05Db1pnbmZjWnVDRjRIeEQxZUNEaktVNEFZMA?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T16:09:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "f3f5acbfb52964ea602993d3",
+      "title": "Subgobernadores de Banxico, Borja y Heath, señalan riesgos de bajar tasas; dólar supera los 19 pesos - Forbes México",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXUtTHZwbl9oeVNLZnRlUGhMTVYtczA5VXlPQVd6TjRtYnI2UkxYRzlDTTh3NEdhWHdrc2ZMbUMzRHlHNHlYM0NZbzN4bjJVNlRBeVctOEFwX0NmMlhWMXFZOVBXbnJDT3pKNURDN283WUdoS2FtS2Y0RUdrbzBPRm9XTUdYZTMtMHJNTW1nbF9Fb0t4d2xULTBmeGY5VDduM3ZicDJLTEp4cjlHS2JPUGJCbUQxdWxVSk1KYg?oc=5",
+      "source": "Forbes México",
+      "category": "México",
+      "published_at": "2026-11-19T16:02:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "409b340a5e92a77825ae4004",
+      "title": "Tech outages are rattling Americans so much that they’re stockpiling cash and supplies",
+      "url": "https://www.marketwatch.com/story/why-are-these-tech-outages-rattling-americans-so-much-that-theyre-stockpiling-cash-and-supplies-07516bdd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-19T15:57:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "c9af6dee56d153a25d6daed0",
+      "title": "PIB cultural de México creció 1.7%, pero la industria audiovisual cayó 6.7% - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGowZDY2YzZrNUNPSHNhVXo5c0hNcVE1WGF3c1dwR1dlbTQzenoyUm5oMEVIX2hzNDdHMDBQbVFsZFlXZ3pMMXBiZmpRdzJoU2JsVlZMV1pYNlZIdUJpRGdadS14LUlyZW1BbkJWQUU2MEJLdWdnVVlpQ1lXQkZYWTJib3AzbTE1NnhTNXY4ZEQxeUtQRkVOeWRzTWVnOXVPd3pscm42cXk0cVhYR2xyS1UyQlBIUUw2OEtrd2NQaFUxd9IBxwFBVV95cUxNTC10N1NNM0M0aUdZeUZ0QjRzckMwM2VCYjJNMUJFQ1BkZ2hrVlo0SFZLd2pDRjFPcmMwSC1LQXJfbjh5Z0dzU1JKN0E3d05xMjRvWWR3bVlmMHpGTWtPUkY3SWJmZ0hpQm0ySGdKd3Y0RWVwbDFELVJDc2hvMjlnd184ckVZcjUxWjJiREUteVlfZnlENG5VV1J2R0dGTC1yWi0xQ3R3X2hiaGFFNnhBelJfUVVpTWVWeGxtX0ZqdlR6WDNRNjVr?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T15:19:10Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "067ed00e57f8633dfc56377a",
+      "title": "¿Puede Estados Unidos bajar el precio de sus medicamentos sin cambiar el acceso en América Latina? - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU1RYbk1zdjdCRlZxNG9uNmtQUU8xUlpFdTd4Tkpnam9yNHVoUEk0WnYzakUwZlpRajRqc1pxUk9Ma24tMExVdUhmYlJPV29Ddzd2T2JvajlYNFhuU3F5eGtsaXVjdTVncmVyN1hUVkFROU16VjBfX21uajhQN3BPQkdwQmk4cGhJRUNRT2RmeFVkM0JtVnhPMmxDZXk2bDBoMGprT0ZHQTQ2dUJCcWVOd1kwMDBWd1pJMWcyOWhnUXpiZEtWMk1oN1MxVdIB0AFBVV95cUxPa3FOdlpwZGYzdlFYeER5Y2x3TmQ1LXpORndVZHliVVhHZzZIQ1ZtenJqTmNfRlN3NUdYallaTi00RnJqdFhwNnJ6ZEpxd2tmd0V4Y0VhM3VhTEFONTFhTmdkcFRYaV9zMlp4Q2V1NHkxTDRCMXVpQ1pYR3RLTHFaS2pMOFJLY050WHdJbjV6UnV6UHN3NXF5QXIyMDByVXNaYU9acmhFazhDUk9ERTgxa3R6TmJxYjhJTnE1SlY2Nl9STUdyd0FISTdTeDdqTHZH?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T15:09:31Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "f122ce72062b9dfb004af650",
+      "title": "Some Fed Officials Wanted to Hike in October. A Half-Point Hike Is on the Table. - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaGI2Z3R4R08zM0JWRjNyVGszWkdBblBLZGppcDRNSXhPTGlUbXJWWVNnU1FGSHF5d1M5RkFRTnBVT25FSTNFUTBOLXV2Rm5rd1pCT2YxNlA3NlQ0Q1pHeGdHU1FtWk53R2tHc1p6MEFiU3dRdkt6bWJTOXYyZUtYMDlSbzBUZXJnbmJCY0MzYl80aFNIQUNHelpkbWw0RmRNeHg0WmxNTm0zcTVyalVNdDdxOThlX0lOVWFFeW9CWQ?oc=5",
+      "source": "24/7 Wall St.",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T15:08:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "38fe8fc1004ddfa75c90fb12",
+      "title": "Peso mexicano extiende su caída frente al dólar antes de las minutas del Banxico - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdEZKb0dMbnpmbENadHFVcjNhZHNTN1VNeG81ZjFvazcwSTVFTlZQQ295RDA0T01rUkFGUlpYb1U3akVPMW1oNmZsUDZtSWZ4SkljdTAzQ2Vla1VVZjlFaWpyWGdyOHhTN2VFXzhaLXVYcEUyV21MUUEtelFnV2F0M0FwTjlHOUtvZ05RbUZkV29HWlBtV2ZZRVlLODhWRFRIZmE4WGlOYUdoaEhkcHV30gG0AUFVX3lxTE1qT3JqYjZJUy1lLXlxRldtX3dEdFF1MFpGOGk3Vl9zOFZJWk9faTlPa0p6aXZoX0tycFUwUlJNT3l0Wk04Y0o2LXluY2M4Z2lwUEQ4eVJvWVBiTWpqSlJOVHN0TDdvckI2LUE1MmV2S3FOa3dIaGFYTWxlRzdDeDVGaGEtb2lSeFFXN2JNUXpqcHk2Umk1OGdSNjktdHpwMlBLZWdnNlRxUjVJRUFaWHJvWXpNWQ?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T15:03:40Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "6f611a9d9c515c594d2479a5",
+      "title": "Shell weakens as US bond yields rise with inflation, raising funding and energy demand concerns - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMmc0c0xIZ005Sm9lVEFsQkItck1vUmRJaUlsUTZ4MFZNRDNqRURHRG9hR2pQZlRYRmFhblhNYnNSeHgxZnJGMm5xaEhLNVVGOFRseVk2QUJLOUhSTWxjVWtQVk9PZGZIanRsT2tuVzNpMjNOUW5pQ21yNHdUZ20xNzBKN1VKbXl4aEE?oc=5",
+      "source": "Traders Union",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T15:01:33Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "ed918b6f428b0639cfe10c76",
+      "title": "El PIB de la OCDE se desacelera a 0.6% en el tercer trimestre - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRTV5Y0ZxVUxYV2lITUN2cFNudzRELUxMWV9ubmFCa1dZaktpblhFM3RkaklKNnl0ZkdNdTNRZjdLMDh5aE9BWVRPX2Y4UHlOYVE5NGN3UEFmTXpYUVF4YVdBMmpHV01idEVlZTlBMnYxTTZ0Tm5LM0w3UEt6ZU9rVW9NLTMwWUttUkYzVjljR3FTTEcwOEpGRU1mSWFCcWlmVGFXedIBqgFBVV95cUxOMUU3ZjFraXRyUTl3Z2VFTi05eXkxbUFJbUhqNi1MVWF0eXY1OW5aVy1ZejNuVVZmR21jN2NBelc3UU1BVlNWMWdwX2dsZE1Mb3NfWmRUeDJGSzVJNkJKWFNjUWxXaC1YMDFsa0o0M2QtQ3k3S2dRYlB5V3VEWXVFRGdDUG56MkNqM1RJUHBWT25EaHhRRDdwSjdkZTd4el9lQ19vLVp6Zms1dw?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T15:01:04Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "4178018c096fa6a68f2497e2",
+      "title": "Anthropic goes public as AI bug hunters push cybersecurity stocks higher: Chart of the Day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQY3BUWGhIRWx3bUhMcXMzVWNCUzNYQ0o3TVVwNE5MOHo2dWhPT1VLQ0lUbHhaYUZHOWFIajJla3o1bTBScU9VSlNuSU9WZjdFWmtmX01WNXN1XzhhUGFVNnlveFgyZWs2cEtpeXFFbW1vLVBNVHhjTW5oQ1JoVkM0X0plY3hrWXhPMk40UGdZV3czbi1mX3B5cmc0b08xV01mTnNqQ3llOERNeEloemZKUXh4V3RtZ2J0ZXNDREdoSWZIX1JacWI1d19WWVdsRzhsa0tkQ09xMTBFUG43MUh3?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T15:00:54Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "7661dd4ec0384167d55fc7f9",
+      "title": "Anthropic set to start trading after completing largest-ever IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUtPVnVrUHpzeXo2bDhMa0F0cHp5SUttQkY5OEMzSERJQ1hrMXQ5X2tLSGM2VkFRblVJREZZNFVIbEZBZ1QwUTN5UTU0ckFwNURzU1gzckZ6UWxhUGltZ040eG43M01mQ3oxdnNVRmRucUkwZkZ4bXdFZEtWbzYwVEMwdndSOTgwVUpSekMtemh6TV9HZVpqWkVnZHB4QUJPZWxXd3RR?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T14:54:36Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "0ac7b6cc21a20d1c53ac1b61",
+      "title": "JP Morgan sees Fed rate hikes at next three meetings as inflation persists - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjlwOFM5eFBkcFZLVmFOemFjNWEyeVVIc3g5UW53dGVxUFFOMlN1aGFSa2FiZUxmcGJNalMwajd1WS1oaW5hLVEtSXRKNGl4cXExdXFJTGVqNFlmNW9xV3A5SlE5MC0wdV9WM3h4bnVqN0J3LVpVRWlWdDZGSURBOHItZEwxMEg3ZkNRQUZ3UGhiLXFDTTg1N3ozVm5qSmFvMF9MUTFPUW95LVpJd3k2VFlCN0ZHQjFPbUFqUmVTWXY4RUk1ZmVz?oc=5",
+      "source": "The Standard (HK)",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T14:50:18Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
     {
       "id": "f59b9848103a538d300029ad",
       "title": "Con resfrío el peso mexicano; Hoy amanece en su peor caída del año - Chihuahuaexpres",
@@ -68,6 +662,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T14:12:57Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "308902bfa8fd01228298789b",
+      "title": "Here's Why Long-Term Investors Shouldn't Overlook Gold ETFs - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd3NjMXUxSXVmOVBPRnExeU91Qlk5UkdmXzZmR0lmU1pIWHo4aS1UanJ4dlU4dnBVN0RrZktmSEhmSGlnelRuQXh0enVraTEwOG9fQ1pOakY0djUwYVB6M1VGd212SXZIcHFfdDBHdVNjbFY5OTd5cW5DV1gyeWw1SEhkSHg1YmpfS3FiM2FJNnJzV3ZROURXMGNoek9fM2RNVFNqZ1FpOXhnZjNGRldEZmZCMHJfZw?oc=5",
+      "source": "TradingView",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T14:12:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "d66077b0f8b6c1489322ba6e",
@@ -149,6 +752,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T14:06:33Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "babc7efaf38863067302a04c",
+      "title": "Precio del dólar hoy 19 de noviembre de 2026: peso mexicano retrocede a la espera de las minutas de Banxico - EL CEO",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVa2pTMnhlbkN0aG5OdkctN1RWMDR2a3JuazhOTjBRNDdTRkZkdklza19uei15a1BiRHJaZXhaU3NzQWlCUExZYXJOS3pNZWFZS1R5TTZpWEdEYk5MMDlmUndYZm1kOVgzeURRRUNBcDlpdmp5U2pvZWFRa0w?oc=5",
+      "source": "EL CEO",
+      "category": "México",
+      "published_at": "2026-11-19T14:05:43Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "56a7a36cb5220feb110efdfb",
@@ -322,6 +934,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "f633eb376d7c525dd1279ae2",
+      "title": "Nvidia, AMD, Micron stocks lead chip sector higher amid Anthropic IPO optimism - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS0JTcFBmVWY5WDhjaTczbFpTdVhFU2tyM0V2Rl9mUXgzOC1YeHptMlBmZHFtZW5CbVhjMktQcTE2ZkFodjg0cl9nMTRPcEp3U0tlZlRaX3BGNU5MRjFhd2ZuM3ROODJEQkVMWVY5TVluY19uMzFGZFUxazNNaVktalAwNjV4Qi1oUEhhTDFVOWJGT1ZmYURhNzY4RWZpZXNXam5TcG1kdl9oUlJHSmhudnIxNTQzQkVqb3ZnWFFGR0tmZ1MxMjRPTEM4d1M3Qklj?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T13:44:08Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "0fdf1c77feffc6d3e9181434",
       "title": "Peso mexicano cae tras su peor jornada en dos años; tipo de cambio del dólar HOY 19 de noviembre del 2026 - El Mañana de Nuevo Laredo",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNblFkajVIVERvT0lpUFhjWTdkeWY1WkxKS1Q1ZEI3MTNsM19PemI4SnU1U2tkR1BSU0Y3eWxNSHl2QWVDSnkyaGNRUFpBZ3BoN2Q4SV95NGZwNjVWYWhBYmtSaWV1TFp2VXBJOE1Va24zVnliRldVdGp3bm01S2owVDJQSFNCME02UDFwNFhLb2tROHNPbGNFb1EtMi0zYlBzMHYwVW9FbGNKRDBIMWpOQVdUNkpQSWZSMnk3eVBtWQ?oc=5",
@@ -401,6 +1022,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T13:09:41Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "b74cb564c9fc0d53df5711c1",
+      "title": "Premarket movers: Palo Alto soars, chip stocks rally ahead of Anthropic debut - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaFFFRTI4dVBCZFdIaHYzZzdjN0dRMDZKYVA2NzlkaEp3aUhwOUN4UEx5UEk0cFFJbzdCUndQOFByVW9uYXpZcW1RVW9NNG8zNmxJX1F4OWVMR2tfSlNNVjE1T1dYTWRkWFlIWk56Rl9hVUdINlFEVmZQYUJjSTA1Sm9KZnR2dkVnN3dVd3k4WUN3X2k3a2lvLVdRX0l4QQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T13:09:41Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "eea89b61119f30b1da110b90",
@@ -502,6 +1132,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "a434666988629fbf8349fec4",
+      "title": "México limita las deducciones y las pérdidas fiscales de las grandes empresas: lo que cambia en el ISR - Columna Digital",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeEpjdUV0Z2hjUGpzUlU2VUxjVEQ1WTdKV0NXYlpQeFN4X294TG11UmpLVDBPV045TG95T2NRQ3NINzhCQ2g3bVdwWk9GWnNQUXNBU1dDcXV3Z1BkUGtBMUl4LVU1d0tlVzhxT01xbTZlNWRNZklDd0hUZFRZZmlYMW1CaEFtMTJYT3JneWYtN2VXXzl6R0lRMw?oc=5",
+      "source": "Columna Digital",
+      "category": "Política",
+      "published_at": "2026-11-19T12:03:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "5f09e6366b51b5794146c6bf",
       "title": "Denmark ratifies Trump security deal over Greenland after months of diplomatic tensions",
       "url": "https://www.cnbc.com/2026/11/19/greenland-denmark-trump-security-military-bases.html",
@@ -538,6 +1177,33 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "7896fdca21fdc9bbf2453efb",
+      "title": "UK's FTSE 100 slips to six-week low as defensive stocks drag - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNC1tMnlsQ3lld2Jqd0w2V2ZFYkhySVJtNjgzMW95SjVVMndhRUVMd2ZvcE9jekNVWk01T213a2VEbTl5V3g5NVhDa2JwMUN4ZFV3cHNTbE1SVXhPbUU3ZThFQWZWN3gzQ2tYY1VOUzYtQkFKTW1XQmpUTTdnblRzS3EyeXl4RkhWOVlMb0F5ckdJNDNYZElia0R3VkFYMlNLT01XN09JT3hXLTdxb2VkOFFRd1AwSWs?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T11:39:45Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "3d5feefcff1af195803c2759",
+      "title": "The US IPO market is bigger than ever, but not busier - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlpENkx2ZTdMLTAxaWJFZkVnMmtlUE9QSFp6Vm05YkhGUlZyTVYzalVucjdXODU5aG5wU1NxQThwdEZ5YWRtVEtGVlBTbnZ2LXBpb09MNGdLNENFNzNNSmc0NEJBOFZWM2gweF91TTRVNVJZOFlEY01nQmNUWWkzZy1sUFgzcVdiYlp6LUFod2h3MmhLdGg4X1lJUXI0UFN4M1E?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T11:37:52Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "cc75a974a31fd738fb94a27d",
+      "title": "Euro zone banks' data centre exposure small but growing, ECB says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcm5Wc0JWdU5keDRHeFRNV0Izdl9IY3pCVzYwaEExN2F0cmo5MTAzMnZ5S3pFSW9zeU5ITVo1bF92OExlbmU0OW55cWR1b09NdGZWU29FTi1kVXBzTHBoSUtNdmRONlVaMUV1XzN5QTUwSWNWQm80YkV0NGpzcjNES195c1VVaS1sRElPVUU2RWJHZ0N3T3I2RGhfVGdTRTlnMkdJeTM0V21lczRyV054R3h3?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T11:34:48Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "f1f777539f600950ad7cf8ff",
       "title": "US Dollar: Hawkish Fed signals support dollar outlook - Danske Bank - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdWFzaVBJbzc1S3k2NTBsdWg3bWpyS0dSd0xISGg3SERlMkF5eEtNMzBxNXV6c0ltV1c4Wm1Kby1tQVpWSG5LZ3Fxenl3WWYxWFN1SXFpQkYwUC1XMkFETVFoNURHVjh1akxoZ0xjd014cmxZeEFwYlotb3U1WW4xZE9vamJrUi1uNXF1NDVpMWZpZFEzT19CMTBlNU1wSzViZDMyU0llTWZfdlU?oc=5",
@@ -545,6 +1211,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-19T11:31:05Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "37e757d36b08f3d59041ed88",
+      "title": "Analysts Turned Bearish on These 5 Stocks on Monday - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ0d3N182Szk5S0ZJMHRsaENHRUU1U1pTRzJuVzRRZGhTLWVGbG1BbjRTVWJ4cDd6QUJWTWc2UnFwVXZocmdiTmRLWTgtMWNZelphbThCQ0FHRmoteUxicG5MUU5fZ3pFcGtoV2hBMW1CemViWkVrM3A2NXdOdUREMXhadG5EbHlHSG1WQ0lrOExnS3ZDdW9ZMXNvb3BPdw?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T11:24:03Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "5b7f25b13ff18116d6408930",
@@ -583,6 +1258,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "0eef42b862b91f7db9efc455",
+      "title": "CoreWeave, Nebius and IREN Stocks Rise Ahead of Anthropic Debut - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTFBR3lKS0E4a0x5UHdHQnN0Q2JiR2xsb3dDaHFTakRsRWdWV2JtYVV4d1RURnF4WFpkTzFFOVZXVnFBSmJvdk83TWpCTGkySng5aGxuZW1fNGR5VmRYXzNlVGNSa21sampDUnp0c2FtOFExQU5Cby1remtRcTNKSTZPR0V5LXlEb2tXNGdZSVBxV1RUOUtBZ1JTTHNXbDg?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T11:07:32Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "c8906007b3fd8c9a6d53f896",
       "title": "Stock Futures Climb Ahead Of Anthropic's Nasdaq Debut — NVDA, BABA, TTWO, SLS Stocks In Focus - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSUU3Q21qQlRnUlRQN0tBa0lKSGZFbU1IYlJhXzN6WUZ3dklzaXpMNzhUZVZmUnozR3pCM016d0dKalhZZGowbG9EekY1T1U0MC1MY2FFRF9yelNldm5kQ3Y1d2o2WFdPR2x3bkNxWktSdThRd0ZzMkh3cU44TXJuaXFDVXIxV244MkphWXJib0RZZlVFUnNsNUxuNzh1UWlYM01z?oc=5",
@@ -610,6 +1294,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "e3918f86e2202d7fd6e10b0e",
+      "title": "US Treasury Yields Rise Pre-Bell as Investors Await Jobless Claims, Flurry of Fed Speeches After Hawkish Lean in October Minutes - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNi05cWxCMXFKbjJPU09WNF91MmRsMWNJY2dYV2ctRngzTVpwUXpKck5OMUFzS2JtNTNhbnBBTWROYkZTOVRYR0pOc0tTbXpraUxVcERmUEp3RFhGcUdfMkRyYkVpVWxZTktaOVhKb2RnOXd5U1JBQ2x6T3RKUE94QzVkbGtoUTJLOFYzX044OE94YUlxeEV2MnZEdnZRSzk5NW1VdGlVaEl5QURGQzV1QUtFVEIzd3Fubmh0YlBhTnM5UmhmMTg4UFRtRnhVcE81VVVkUlhXYTlhbE54OF8zcktYbjZFcmM?oc=5",
+      "source": "marketscreener.com",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T10:53:21Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "9f99d4d10cc46a1aa12026de",
       "title": "Gold, GBP/USD Forecast: Two trades to watch - FOREX.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOemRURTlsV2N1OWhBZDFSLWNTUWFQRGNJZENmXzAxSW1NWnI3TUNBSkxtODB4blJpR25uSDFhLVc3QWJad1dZZmFaSnZCUW04a3l2NXg4VW5QVnBvR2hkRS1BT3J4ZzlfUDVaaTgwWjVDWGpRWGZudFV1alZRYVFHOXR3WHhVa256Y2hEUkJB0gGaAUFVX3lxTE1sR3ItMHlBdTVremJ3YlZMemp6V3QwcFA0dkJ5UkY5amg1dkVmTnlvMEY3b2k1S1RNQ1lvS1RJSzA1eUpVWF8tX0hVVFRFdTFzX1dfYnh3M0ZrMi1sZ3NYLWtUNkhIdzBRR1FZaWhSWG1Sb2ZHZXR5ZWV2a2ZlakFGZGJLSTFET2J2RzNHTElydDM2cnlrQmhhOFE?oc=5",
@@ -617,6 +1310,24 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-19T10:49:28Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "889bb12365c29ac7b8538ca6",
+      "title": "U.S. Treasury yields edge higher as investors assess Fed rate path - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWS1Pc0ZFU2ZJOVl6R283ZUxsbUUzRjliWjMtY2dxVnZxdndVa1JSMWZpRjUwVkszVnlBQmE2eS1fclBVY3hJcHYwanlaSHJ0dGJVWHY0aEJhY1JZUGxxMWhCaXF6M3pKLW5HVWhGajEzV0lfNXBOckJpbmlGN3Q3OWRIVXg4MjFuRDR0UXAtX2lTSWZN?oc=5",
+      "source": "Traders Union",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T10:39:33Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "76c96d53dfe486050fb0d40d",
+      "title": "Anthropic Shares Indicated More Than 20% Higher on Gray Markets - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR0JpVW5fQkt5R1JVZE9WYjNpN1ZCSzhVZUpLbFZZU3JPcWstM0oyenBTSW8tTnZGMlpsOXN5NHVQQTBPUldFOEg4cDZya0h0dWJKSVFoSlFTRmZaSmJjOE1Sa2dfdVVCanBVOExBVGpqenVjZEtYdzZMR1lhUnBjZ2RWLUVjSWxYUEE3bnAzc2pUM2NfTDBtQjAwLW9SMms?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T10:37:06Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "eaf566f93504ed22ca8e92a5",
@@ -691,6 +1402,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "c4eb1b97657beaba966941a3",
+      "title": "NVDA, INTC Stocks Ease Post 5-Day Rout: After Meeting Xi Jinping, Trump Says Nvidia Blackwell Chips Could Reach China Within 2-3 Years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaUIxZjBNVUxwcGlXNFpGWTltTnA1MVE0M1I2YkdPcFNVNjliQnJJRTRYbERFQXBXR3dnVnFtbW50cm52T2tsWWJ4OVVONW1JVGJKOU1lRWZldDdveUtJUUhDM0hTbFVubWNFd3psX0RUTGQ2LXB1cy1tNi1BS2RaQ09xbVBjZTk0UDdXZXZJWDNOREI4b1E?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-19T08:33:56Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "e11a73cb4ba1a00381139ab8",
       "title": "El poder tecnológico - El Economista",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HYnNfLTJoR1Q3YkNjdGdkVDB1eUNodlpfaU95UlFmYldVV0d3N2RVU3pDc0lvZ1F5RGkwT3BqZVFOVW5tVXRZMmpESlFIU3RSQjJCdWNoN09UMkkzU05JRC00dFk4SGttenZHUGFaS2p0WTkwcGxGVXJ1VkfSAYIBQVVfeXFMUHRUY1BBVVF4TERobDVNVlZIN2RRTFEwNm10aE52ZC1Bd3REZU8yVWpPMXl5bTdUTGZaTVJtUDdYb3pScTNwblFSMVZJTmVUN2t6UlFyXzl1TlR0eHM0T3FRaGxfZzJxTHVfZF9UMmxWMFlTWUVSQTFCck9MMkhTaDZqZw?oc=5",
@@ -709,6 +1429,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "a104724ac1237c390b8af863",
+      "title": "EXCLUSIVE: Kenya picks US consortium to develop Mrima Hill critical minerals project - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOFJFYUhWNHl6emd0SEVyRG5tX3dEU2dSTWtMdGljVTFwZ1NNT2JXNDczX2tYS3BMWjV0a0ptWlMzSzd0amxOeXl6c0Vqbk5lTTVaenhpNFVuM2hSLWZjYnBuak5xWUt3TlY3Y0t2VkFyUGE0bEZfd0paRU5mSHp4SFhncmZ5NHN3bkROUDNLRkx6V0N6NWxvVTBCaUZmcE9uWW1KU2o3bU1zTUFkcXBBM0NLcW5obHlVNFplNVp3QTZQdw?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T07:33:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "cf4b0ff7a182dbbded4709d3",
       "title": "Inflación en UK, en máximos de 12 meses - El Economista",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWVMRDR3ZHhrTlpsMERGakZWNnA5bkhwVlZYQ1I5Q2g4Yk5rZGZNLUxfeXEyZjFjd1JEbjNESkg3aXY0c2N5NHFKQUMzOVpQRWNPRDZ0dUtIdTlsSkEwSkY5ZWp6Y0NtNTJteXZkbjR0MXpCSG9wMnBiWUlyQ2FlTmVINFdHaU9SVFNJMzRkVHpuRVpMWXfSAZsBQVVfeXFMUGNqT09PVTFBSWZwakRpMDVtWVdGNm5mSTlINEZRQlU2czIyT0dIeG9jbDF6NERweXYwVnV2Z2xJUXdJSG1JUmtnaWhOTXZzVEdDQkQteDhMOXdLc29KRXY1Q0lzQl8tSDB4bkdZN0UxUTZfa0VzR0tRR2dsYmtjNndTd2dLY1p6ZXc2cFo5SUFyU0xQcVhsb0ptaFk?oc=5",
@@ -725,6 +1454,15 @@
       "category": "México",
       "published_at": "2026-11-19T07:11:15Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "de3baf328b3392d7f2010d64",
+      "title": "Taiwan to enact new short-selling curbs in response to market drop - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcHRkNmpfakc3VkVyNVNGckNtRlY4U3VPMzNHQ0kzTWJTeHFyTWdpRmZVTWdJblpxSjFhQnZHUE45QTd2Tlg3MTJZbE9JV0FLZjl6SnBrazh0aHNOYkFFamthUjNZS1ZLc1FjUTVJUlVaWTFaNHFrQW9WVkdaZEs0a3ZoeHBNWS1p?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T07:11:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "3dfe8261f383365a18ae4714",
@@ -781,6 +1519,15 @@
       "collected_at": "2026-11-19T14:27:31.370347Z"
     },
     {
+      "id": "8039287abbf843bf6c45b613",
+      "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers - The Block",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjdFbVk2Sm9Eenhtb3Q0V0F0bU0xRGpNeE5qMnVwS1dFRGYtcWcwWHlZbDlkYk9vYjJtdkRIUWh2U1o2UGFZOWVTbVBSaTdoTUUxSHVXQlpDdFVSWlp1dldubUxtLWtzTTE5QVhjMllyV1Zodzg0ZW56NGNQNGo3SGF1a25wbVhZU0ducU1ZT3ZpTk03dmFzSV9iNEVnNEpBOHJCYmhTSGR5dXIwYlY0?oc=5",
+      "source": "The Block",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T06:00:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "61e100417367c5cf38561ec2",
       "title": "India bonds hold on to opening gains; moves in crude, Treasuries to stay main trigger - bfsi.economictimes.indiatimes.com",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObS1rZkw3V2RubDhGUENCVmlPRF9nck1lSnpnZDBJWjZhRXZuVXJHWFdGYWRoZlItWFNOX2t1eDdSbnNUV2ZDZUtTekFRb3VfZkxqa1JDRkVjeFNsRmczd1hkaTBrQ0E3cEhkQy10NW5LQ05hd2xqekN3cFJ4VE9vbXVUUlFmQ3JYVXdtb1U2bTQ2SDg1UWx3YVlkZE9kT3hHYXlyX05aaEl2OGJZeEpPWndPUE9MNkgwbnZDaWdYNGJVM1B4Z3d3LWtIR2pJa2FOYTM1bjk3LXVxTmxJ0gHiAUFVX3lxTE1NM2lTd05KbXNrbGItc2ZyQ2xwazBjZExBeDRxNm14Sk0yQ2FzS2Q2RU1pWVhDUDJYVXNwakxFQ0xxVlVpemJ4eWp0RENMQWdfQW9McFJOV3FVRmhJS2t2elgtZkV4MWFiYmxmN085dWlFX244c2FnVjM3c2RocUM4VGZqMlZEMkRfOU9oVWV1Y3lPdEtOSXk3b2YyajIxM2VhcEFUWTcxQTh3YmQ0MWV2cFB3cWNYM2wwZkQzTzMxc0hfRm1oYWdUUm5VTEs0V1U5ekdFQWUyVWU1THRxUmtNYVE?oc=5",
@@ -797,6 +1544,15 @@
       "category": "Mercados",
       "published_at": "2026-11-19T05:56:00Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "952e670930255b30c1bc61f4",
+      "title": "Los escenarios ayudan a que la política monetaria sea más eficaz: Banco de Canadá - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeVpjQjNTTFFuR1dDdFhqRTJGdS12dVdWX1VuUjZvUDlXbEl4VmtpcnlnUUxtbFNBeW9ocXFHZ01OX2RhVHNuTzUtaktyeFhFOWFnWWZwdVZJS3JjOTNFaTA5VHpNcFBOTGJsWVVzcll0YmhtM0NhMHFUOHpJdVoxbjNHR3hVSmdYOHhBR2xXQ1BIRGxYbkRjT2piNnJ2akk0SV80V1A4YmlxbE1tWnBwdDkxQ2FlWHVtcnVwRzlWTWRNb09tTmxSTWRB0gHPAUFVX3lxTE03bGhOSHNRS2w0YzZvS0tCR19makw3Sjk2dFpCMnl5X2NKM0NTQ1pXU1JhZEoySnVWTUphNGZPUlFoVWJFX215a29OaDFqbkZRb0N5Z3ZGRWhOT1AzTXROVHdXZ3hNMmVSRFpnaWxIazJkZ3U1dVhQamY3LTU4UVRjV0wxdXUtanpfcEhURlNQMlJVcGdYYl9KLTQ3emdjMmNhem90eHdLU21QcXJhODRLWlh1RlVQRzdQRVdFMHUyMTRmQ09ORkRSazEzaUMwdw?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-19T05:55:34Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "e62dbd5c21c59b902bdd45b0",
@@ -824,6 +1580,42 @@
       "category": "Mercados",
       "published_at": "2026-11-19T05:05:00Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "21660aafd0f756a3d2634298",
+      "title": "Treasury Yields Fall, German Bunds’ Tick Higher - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+      "source": "WSJ",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-19T04:35:48Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "6215369b316bf1d5d372e4d5",
+      "title": "José Antonio Meade alerta sobre desafíos económicos en México por programas sociales y deuda pública. - El Congresista",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVl9WY1htQlFoQkJHTWd2Ylh5MHI5bDVENnZFSTc4Mm1fcUQ1YTE4RS1Mb3hqcmhnNThrczJwME8tSnBHelBBS1JTY0VhaTJMU3RfQnhzLVl2emprdk5YRFRQVmdBWEc4TkItcVVRXzAtUWNWU0pfZWIzN29waFV2LUpBMEtfZ3FHSHdGOEs1NHRIX2tEcHJpSw?oc=5",
+      "source": "El Congresista",
+      "category": "Política",
+      "published_at": "2026-11-19T04:32:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "a4b7280c5b9e8ba769061c18",
+      "title": "Explosion at Indonesia oil refinery kills one worker, investigation underway - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlZTUGFRRV83M0NrdXJpRzAyMGNjZVBDX1lobElUOGhSQk9TQzFnSGpWYUh6cW0zZGpIQmZaenF2Ny1JbXZhcGt5WG5CSzU4LWNwN0owbXRlRWNnTHNHY2ZSZ3RwWWNjRXdWWEVwaFE2NzF5c1A5LVExOWhOWm02SXhzVlRIMkZlMkg0NEZXOWN0RVI4UVBCMmV1a1JjWk10cXN5d3A2U3R2VzlSSGJVUUJfdFFHM3lyVUpocWx4ME5UdkZ6Vmc?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:30:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
+      "id": "43b7757336fecbcd7972b4ce",
+      "title": "Fairfax takes control of India's IIFL Capital after open offer - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNenQydlhPTTJlSnBQMlZMNkhLT2htd3VqUVF5V2tkaU9HNlFXNkFDcmZ1ekRfMms1amdOMi1ocE1NRkhjdlV6bXZsVmVyUVBNWW1FTFRwUXB5dUJCTjRraXlZdzRRVHlVZzRvQkRZNDZYOTRwbkRqdUVnZmJzVi1iYUdNcXlTLXhkeTBzMVFibndQZ1lLeFU3c3RqMUREQnhLZnBxNjNqWlZRdVI0NFdFdTdXMmt2RUVaNUlleWFsREc?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:12:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "df616e1e690f8900585676af",
@@ -986,6 +1778,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-19T03:28:00Z",
       "collected_at": "2026-11-19T14:27:31.370347Z"
+    },
+    {
+      "id": "12e781b16cc289958d81fc7a",
+      "title": "'GTA VI' to supercharge Sony — but not so much in Japan - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T03:05:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "e20ed1efd7d6f049817696c6",
@@ -1249,6 +2050,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "376a04f2a9c454395129d525",
+      "title": "COMMENTARY: Trump-Xi-Putin summit exposes Europe’s power deficit - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXhYWk03Z1VnUVZYME1MaUxfVzRsU25WYjRHTTQwZkhFbmE1dmNiZHYzc3p5TEtJUHpQNTU0R1dtMUk5QlEzNzd5b2k0Tl81emFncl9PU2FkRnRIYVdBVXI0OC1ZeEVDd0ljaUp1OGhUeG53WjYxNlVKcVRhZEgzQkdueXZVekZsVGZvTi11YW9rSkxwNTF0ZWh5NTZFWm8zNHJQRW0zQ19mTUdKdXk3UmJCWXRzdmk4d1J1Wg?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-19T01:00:00Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "28f38dff0d064c667f0a3f40",
       "title": "Review & Preview: Anthropic’s Moment",
       "url": "https://finance.yahoo.com/m/e82fbe94-96bd-3f01-9a6d-8bc83fca71ad/review-%26-preview%3A-anthropic%E2%80%99s.html?.tsrc=rss",
@@ -1366,6 +2176,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "cc4392dc6b53c654ff3043fe",
+      "title": "México obtiene 143,715 millones por aranceles a importaciones, 24% menos de lo esperado - El Congresista",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80a3VxNUR1d0pPVXJxQ1hqSDhEUG1LT0M2OGVGaGlSYm9oLTRGdlUwQ0labEw1bFlIVUR2M0Vmdk1OWHB3T2hFM3FURlVYd2t3Y29oRUZZU3FfR3R6WFp4bTBpbmZOeE92MjNpSE5iTmJYM1FvWjNBSnAyZw?oc=5",
+      "source": "El Congresista",
+      "category": "Política",
+      "published_at": "2026-11-18T23:45:40Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "d944e078b0502832d21dfcff",
       "title": "What Moved Coupang Stock Over 5% Lower?",
       "url": "https://www.trefis.com/stock/cpng/articles/625841/what-moved-coupang-stock-over-5-lower/2026-11-18?.tsrc=rss",
@@ -1382,6 +2201,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T23:35:02Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
+    },
+    {
+      "id": "f2d2e92eb97e851c6809512d",
+      "title": "5 Best Drone Stocks to Buy According to Wall Street Analysts - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVU5pa0pwa3FxOWhLajNuSUtIUGF6bnR5ZHh3eXZzOFVzN2tUYmVuMi1mZmlfV2dZTGVEQjFpaTlxTFdnM0stVHNSY0xjbGdkYjhacXVHZzQ5UnMyNFdwaUthbVpCeEVMM3VMaGlFVDBXRkl3WlFLU1pvMEtsckJZQnVrTm92N2dUQ1JOY2U2aVUwUQ?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T23:34:32Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "91c8535511263cca7d277ff8",
@@ -1519,6 +2347,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "b6f9d735eb9b1cc53c7fcc3b",
+      "title": "US inflation surprise and Treasury yield surge may deepen liquidity challenges for NEAR and crypto assets - Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbElRcDZRcTZkLVZ2Q05fa2t1SHA2bFVucWpKaFV0V3llMVhwUldzNEdiSEVBelVEb3dWOEpvMS1tTXZ2TjZvaENLQ1lpdmFnU1JVbkNId0xKM3BLdUhjT3lzOWFYeEtVdnV1bFNiclRWSDVHZG1aUE4zYTZzX003d05YWmxrTVI4aUc0OTdZdw?oc=5",
+      "source": "Traders Union",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T22:36:27Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
+    },
+    {
       "id": "99c6810814e878c2323300e6",
       "title": "Nvidia’s booming demand is ‘hard to ignore,’ but these four questions loom over the stock",
       "url": "https://www.marketwatch.com/story/what-wall-street-analysts-are-now-saying-after-nvidias-beat-and-raise-quarter-9311c85d?mod=mw_rss_topstories",
@@ -1643,6 +2480,15 @@
       "category": "México",
       "published_at": "2026-11-18T21:29:52Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
+    },
+    {
+      "id": "358abb984a824218fa4d306d",
+      "title": "Stocks slide despite bumper Nvidia profits, Anthropic IPO - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYWw3VDBHVXpMbGJzaFpKS0xHQ1doeVdtcUhWOGZsZW9Ka2xoeXlCcWtYenBMZzVIOFR0ekJNcU9sOVRUWFV6akloaEtHY05HbnZ1Sk9XckxrY0ZYMmI2TmhvZjdEVGowZGtIbVBFN1hPcEtjcEx4T3FYWkZObnRXel9QWGZ0U1Y0M3I2TjBRc2JkN1NrREVIeFRObzItX19J?oc=5",
+      "source": "Yahoo Finance",
+      "category": "Mercados",
+      "published_at": "2026-11-18T21:25:42Z",
+      "collected_at": "2026-11-19T17:54:27.573093Z"
     },
     {
       "id": "3e7d87bcd6ce3da684f2792b",
@@ -1858,852 +2704,6 @@
       "source": "El Economista",
       "category": "México",
       "published_at": "2026-11-18T19:33:03Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "441fdb6c9d4f946a448365fe",
-      "title": "Fed Governor Barr Signals Need for Further Rate Hikes to Curb Inflation; 0.25% Move Eyed for December Meeting - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQWhyaDVzTXFpUG5UZXJjZ0NiXzJwY2Z5UkQzOXVHQ2I5cnVlZ0NTZzhuWWNDaW9acjlzejMwYTBhbkVRX0RMMVhiX2poeWxybmZDb0k1WHpkbl9zSmM0SDc1WjhIcklYaFRXTDF6RU5ZdUVGWHc?oc=5",
-      "source": "BigGo Finance",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:25:00Z",
-      "collected_at": "2026-11-19T03:52:13.369139Z"
-    },
-    {
-      "id": "8d7597f1e0240a08c8b79fad",
-      "title": "México pierde más de 23 mil millones de pesos al año por contrabando de cigarros: ONC - Milenio",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkZ1aVEwR2lqaEFDLXBHV1lLcHNMblYxVzVDX1ZoRmM5R1dJOThrREgtaTR2X0ZEU2F1YmFrb0VJZHN6cDdLOE9YVU1VMURPOEV2d1FMQUhMUWphampocV9TdW9SNEI3aVZaaWhJN29oTHhXV2lSV0VVS3hoVC1zcVNCSnQ1ZWpBbGc3ZzZTQ3HSAZABQVVfeXFMUGJpa1VSeXJPUVhXalZLRHJNRTcwejVVR0VibUpWOWpCTkt5emdNcDAtQVB3NzA5alo2a0hETWFkak00SHVySm43bjhjQmFNdXVJZ1ZqWlY3MXFtRlZ5V2d4Q2dLdUptRzZuMFN3MWdIZDF0Y1Joai12UDcxc19CZWRGNUVjRUpOeEYyTUlzM1BX?oc=5",
-      "source": "Milenio",
-      "category": "Política",
-      "published_at": "2026-11-18T19:24:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "194efea8f83af4a75cc29034",
-      "title": "Subgobernador Omar Mejía defiende recorte de Banxico tras inflación del 3.75% - El Congresista",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjVXMWQ4c1hDNUIwdmZnOWxMa1BvTFN5T21EZ0RiTUc2ZEtYajdmZEV0ZTdjZEtzQTMxQ0t5UEJtdElpb0ZfRjVfREEtc2hxVnFzS1N5VTFXQUJucTh1TDF6QTZPWXE1bnBLa1FoM1ZrSllsblFzcGQ0RWpoMEJ5QU1GM0VoZzI1Q3ZIeA?oc=5",
-      "source": "El Congresista",
-      "category": "México",
-      "published_at": "2026-11-18T19:22:29Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "127735f70d51e01dd5364bde",
-      "title": "Not Micron, Not Sandisk. This Is My Top Memory Stock for 2027. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNUtEWE45Si14U3NjVmpheXdPT3dpaXNvMDlDU09pTXJRd2NFZGg3T0hRblVyMnFoR2Y2WjVCM3JDSFh2OGVjTG1lYjFkblNJVk91SGZaNVBHdnN3TVhmekJsSnBDbXY0WkRtM1JHUW1YRnVYMVJENEEwcXdwOUFrSHJWbEpHLXk0MmhENGg1NzVmdzJJX0E?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T19:21:02Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "0f75564c436fbdb1d719cc4d",
-      "title": "Vance scraps schedule to address tech outages as Trump admin insists incidents aren't linked",
-      "url": "https://www.cnbc.com/2026/11/18/trump-tech-outages-nsa-faa-microsoft.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T19:17:27Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "046916954b9f0b26bc0c76fa",
-      "title": "Subgobernador Mejía anticipa un ajuste al alza en pronóstico del PIB de México - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb1hxVVRJQ0N5NEtXVjdLLWVKQlZDZHdoeDJWM1BaLUVuQjN0RVBvU29SQXpfLU5SOUs0enV0OGdBYmZqdzBDQUI4N0lIOVpmSUF4VkVlcGNpLVhfOGFsS3JhVnpOUGIxQVI5eTVkX09MNHo2SWl2cURhUFpHVFE1UnY0OXowRDNiVjlzak5SSk9HclpOclNWdjRyR0pyeXJzWF80NkJDazJ5NTFjOVZ2MmhYZndJQmptQWRVeGxfNW5nQdIBxwFBVV95cUxOejJfVUEyQ1d1Y2N2QXFpdTVRMkE3dmNEc1ZBTGFiRGIybU1DSU5MTDFpYkxYQjVabWZiemdLcmRlQ0xGRkRUMGdubEswd2NPaFAzOFhNNnNHVDlfamtpZFJpd092NC03R3M1aHRYcVZweVcxYjBRem1MTlhnZWQ5WmtGMlBtaUgteXp0MDF5VlFtcDhnYTR2dW9XS09IaUhDZmUtSnZSVy1fVUw0emhESlg4bTZDQkphSzA2cnhrM3gtcGJNVmtZ?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T19:16:11Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "8d32803f5069e49ce9f45eb3",
-      "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount | National News | 2news.com - KTVN",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQa0RtQWp4TGFDLXU4WFllX2dKUkY0S2lMbWl6anRJNTVjVGZDV2VHNm1xQWFDWV83VmVHazRwTGJ0dHFKcjlIVmc2Q2x1ZXZmNTNIVkZET3k5eERjc2ZLWFFVMkZRNTBnSlgxQlplTXloQ2Q1Zjdvd0F1WjRDSTdzVEp5NU5iTjh2aHVhUjVnaHVYZTY1Y1FiSFg1RnVYZklsaXVTRF9ZS05FLXBWVktrUkRkRjlIZWhBZnpQaGJscTZZV0RmVmhWeG9kdUdIalY5Z0g0M2tFdFBzaExjQ0g5OHhFOE8wbzBNVUlqZTJ0a1JrX1lkb3c?oc=5",
-      "source": "KTVN",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:09:34Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "2cc4301aabb8c585d9ccd9f8",
-      "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRFFtc1dRMTB6eTEtZzFpMHJXUUgyS2hucm1GVDdQcWNKdWI5aDNvZ3JIcFg1SnU0U3UxQm5rV3ZKWEFUSlEzWmEwbEoySUpwcGpLcHgwTjhlQ0wxM21YcE9hTWV0U2FkZThacXpTMXpmUE1NaGJ1b1JpMzRST2RuTHRmX0lVT3FxdUVpdWFxX2dMZzVEWWFONGc4eF9KdW81cEVxZzJEWXc4UGhpZjViajhweGZyN0d6cU1DZ05FR1ZsLU1yanBKZmEweGE3MnRyQ284N2N1eUxkaDZEYmlza0huRHNVRjhkTldlVl93?oc=5",
-      "source": "The Killeen Daily Herald",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:09:34Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7d21b2409af3ca93dfae43a4",
-      "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbnFzclJHYURzZUUyTHBlaTU0Qk9BRmRtQXIyeTcySTh6M05Fc3d4bmhGakZJNDZFMi1FQWRSWDVqTFV4cWNfZVF1RVljNk9NNXh6VEFvU3FkVWFHRzRVay1ISi1GOXFlSXlDdGktNzFpMjR0R0xiM1JnMDRZQS05b3JwMV9sendRWkxDU0EtRTVVaC1jRnJjVlpGTnRTRFktcHE1OWhQaTItZw?oc=5",
-      "source": "Audacy",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:09:00Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "66299f65320b9ae8d7d41d92",
-      "title": "Fed Governor Sends Shockwave Through Markets With 50bp Rate Hike Call - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15b28xa0RTY1N4anVSZ24xZGZycTc3LTctZzBCa1NSYW9QZ1FlWXRpRnVSQ0NQZjAyMWt0RWtKU2JXaEhZZzdIRzFERnNQQTAxUS1zLWlqLVhQcGh0QWpfODhncXc?oc=5",
-      "source": "BeInCrypto",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:07:49Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "563eeed556d907ab65161583",
-      "title": "Banxico: México paga comisión de 27 millones de dólares al FMI tras la reducción de su línea de crédito - Diario de Yucatán",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWDhvdXdmeVJMeW5KYzFTN0ZqTGVkaHp5V3dZRk5YSUUycU4wekVvUWtxQWl5Snl6ZFh6YVZxRUNPNUJmWWNrV0hSV0R0djdqOV9RRVFNc29UdUw5SjQ2WmNneFRTVy1tb1pCNEgyM1l4ZWxUcndsbFltVnR4cnhiTVZvS1dPTElYSXVhRzFPemZJMnlHZllwazU3QUYzZm5DcmkwMTc5NTY5SE5SX1NJWEplT3Q2WjdCcEY2NFBPWVcwU1NkTmNmcGVZT1NjWWFwdlNZNGNaSkt0ZFNmMDZzd3BJSU94cHVZTl9WSQ?oc=5",
-      "source": "Diario de Yucatán",
-      "category": "México",
-      "published_at": "2026-11-18T19:00:07Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "c0c4ef66e0d9307c0568eff5",
-      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
-      "source": "Fed / Política monetaria",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T19:00:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "a6ca80c37479b158990cd171",
-      "title": "Hay optimismo económico moderado en 2027 con un crecimiento sostenido: Meade Kuribreña - 24-horas",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1BIdkhNOGVYLXhRbENydjZOV09mamRON2tsX2JTdXBPMTB1alV1am5pVkNCQXZqVi1tbU1SaHlWYUVJTjlsSDhpYTlHZE1iSmotMHdxMUljV3hlT01UV0JRWDlieE84QkZIS1JGYWZfQTFxMm5RZFN0UV9MWHM0REw0aWlrMk0yOE50d0ZyalRQZndfZmE5QlVKb0RMSVhNRC05cU5VXzVERm43WmNOXy1lTGRNUQ?oc=5",
-      "source": "24-horas",
-      "category": "Política",
-      "published_at": "2026-11-18T18:42:34Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "103f366ed716f9421c56a237",
-      "title": "Fed's Barr supports further rate hikes as inflation remains too high - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVFKSmJFTnYwa3Z4TVRuQ2s5Vk1tRDNza3BEQVpxak56dnc0OTlKd1laSE1zZTlHQUozU1ZKZ3dqd3NQZW9KSWpIZHJPSWVTcnVFV2dxaDZ2WVZlM1NkdjdLREJrbGE2d1NLN2UtREpXWXI1V3BuRzZOeTA1WkJ3c3k4VDJzNFhyTUNlSnROcnRsemVjY3ZuNFlRQXNLaGMwRi15MGtrVGlUWkVRMmc?oc=5",
-      "source": "investingLive",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T18:39:42Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "8c429efbb7ff350b404695d7",
-      "title": "Fed's Barr says rate rises likely lie ahead for economy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSm12UHZCU3VxTVdaUEZkTFVrcllfdGw3ejc3STVZM3U0cXByUWR5Y1R3ZDRhZmxQVjNiWXI0Qm9hTURNNlE4YTAxU2hYZVNNSm1JNENPd0tPYlE4VWtNNHZTQTZ5Q1JJMVE2SzYyNTE1UFVjSWRHUlpEZVB0dmhYbzlEdkNzc1dFUmJyaFEtNE42djVKTU5sN1RvZw?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:38:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "2d1142cd7c0b70b7e2e556bb",
-      "title": "A Bear Market Is Coming Eventually. History Says This Is the Best Investing Move You Can Make. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVlhXdmFSTnVYYVBlXzM1NHJsWUlhYkU5MXpOSFp5dlBBQkJlU3EtN2JYUkgwVlgyMXAxYzhMNkh6YnhmZnl2cGdzXzBMcGNZU0Zhc2laUHZDQU0wQXRta084Ri1IOXJIbjdoSy11cF9pRFFTTG5pc2t2UWJVMnVKNE1HTFoxWWxKcnRPMnhWeHZ4aVd4aF9QQVM3NWttbTFCUlZXVQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:35:02Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "498e8ffe54e89748f0208b42",
-      "title": "Stocks slip with Nvidia, dollar ticks higher - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTzJmYVhSSGZqUHZWY1lneUlLOWEyclpZWFZtV1RsNHE1VGJUXzJ3dGRNMjlheEdDbi0tV2psbUNXWjU3OUZmTHVuUjFKNFNndkRvRURkWi0xcW9jdTR0WXVzZTdYa3NoMGltMDhyamhxODBDQmFya1luXzQ0ZmlPRmNiZjNWcVpKejY3UXZJalhxMGpCV1NN?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:33:55Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "db3fa67ad536a3d0fd4be0e8",
-      "title": "Jeffries wins Democratic House speaker race, on track to make history in January",
-      "url": "https://www.cnbc.com/2026/11/18/jeffries-house-speaker-congress.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T18:32:39Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "d5c7c972fac5a9e10556aabb",
-      "title": "EU governments authorise signature of trade deal agreement with Indonesia - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXJIdmxPSUc3bmRtUGRnWk5CZUFYcG9vaHh5bUpHNnZZYmpSd0ZiR0lYV2FIZGdxeXhSR25rWkE1MjNYbkNTeC1KNlpNWEg5UGtMX1h0djhUXy1vZW9wQjk3WV85UHQyWmRCeXYxWE96aFZCRnViUFd6dmRnVVU5V09FekktbVNzT0RObXg1S0hPSHdSVzM3a292OEpJRzhzTHN1UzBEbm9paFlRbXlIRGVyNkVYbkY1c0N0UVdCT3c?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:31:23Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "6148a481f86b00dcb2412c45",
-      "title": "Fed Official Musalem Turns Hawkish: Four Straight Rate Hikes May Be Needed Before Next Spring, With Rates Still Too Low - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xUUdjdGJOcWQ0NUl3a3RaeGEwNVRrODdaalJOY09QZ2lKM21rc2U2MmlzNllfT0lGN1AyZDVVc29nSU91aS1fN0NsQnd3MHNYNUtQY1RYUDhSVGZWRnNUeVpDRXRGaldhXzM5MGlPQU02aWUxdVE?oc=5",
-      "source": "BigGo Finance",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T18:16:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7d46dabe8ba710ffe32f11f4",
-      "title": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hmb256SjVmcVJudTZkZ0ZEbWtFZF8zamktckplMjBFUjVUMVVQUzRnaXFpSXJzdFZyVlJUcFlybkNvcXlQc3ZTTzgySXpybDZBb051Y0hEWjhnbVJybklIMUNVRDlCOGpLSXU3NU9YV0dmV21hS3otUlFQbTdjc3kzNG1EajhOX3k1NzVFd042d3AybDNFdkMxUUtfVVc5OEtNMjU2THprSGFkNjJPZm9yUUY0R3YxRGkw?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:14:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "2e16f1bd3deabb32fa622989",
-      "title": "European stocks hit two-week on weak miners, caution ahead of Anthropic IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOV9Hdkl4TnlUc193dDE5Z3BJaXlMU195R3hFX1VVUFNuamhEVXpTRkZFMGNLM0VoblJjNUlyWFZ6T2x2TUw3ZWhPOWs1WlZRbGZ1OGwwbGY1UmZVQUJ4dzhkVV9oQnN3bF9RMlBGbmJEN21FV0ExaXYwMTYtY19MY2MwN3drWF91UWlLbnl2VGtfMlluNHpvX0xjbkZROXBm?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T18:05:14Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "aa851ca3aecbf16801737734",
-      "title": "¿Resico 2027 impulsa a las empresas o aplaza la reforma fiscal? - México Evalúa",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYTk1al9PYUxoTFJVYmMzN1pWekM3cUo4VXltQkZXMzZaVDR3ekZPVEt6M2hTLXNWb2xqdF9sV3pfbFJtbXE5WjNsVDA1Y3RBOTJJWTFxY1p1Tm5fZGdid294UktVNE1FUmRpdlpKRy1MdVcwbUZESHZoQVo1UFN4VDhUa2Z1T3JCR0RBQUc4d18?oc=5",
-      "source": "México Evalúa",
-      "category": "Política",
-      "published_at": "2026-11-18T17:55:25Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "b46913d1d7c48ef6b6ffd2e7",
-      "title": "Jensen Huang has agreed to appear before Senate banking committee, Chairman Scott says",
-      "url": "https://www.cnbc.com/2026/11/18/jensen-huang-nvidia-tim-scott-congress.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T17:50:37Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "9f58671328c1cf106ab8d8b2",
-      "title": "Sandisk Leads Tech Stocks in Earnings Surprises Ahead of 8-for-1 Split - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaEJQS3F5LUV1cy04TkV4S19jcHpKMlpBWFdMdWNKcnBnaFl3c1dKbE5KQnQ3anRwUkVUZk9HN2RRMndkUjlPUXJNY2ExQjZ5emFIVWJDMU9GNWo0S0JnT25FRnlYOUJsekl4SUZEV1V4S1JUMFJlcTROb2xSUVFkb3Z1M28tc1pOdk51NW04MVBuY1NSb0hZM0dkUERCM1E?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:48:15Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "6ec8a1ff209705e4de5854b7",
-      "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:46:16Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "9e72e8567a3e97c30e91d794",
-      "title": "Jensen Huang scandal fuels bipartisan push to block AI chip sales to China",
-      "url": "https://www.cnbc.com/2026/11/17/congress-ai-china-jensen-huang-chips.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T17:35:50Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "6c21f1229fe43e8b491038e9",
-      "title": "Nvidia stock erases earnings pop as investors face life after Jensen Huang - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzhvYkxzRld1VG11TlpOSE5wWjE5WE94RkMwVkJJWnRReDFRTUZ1X1FQWU55Rnh5b1hqU0VvTzBCay10WE5iVzJYWHdtVWJ0dlU5aFhhX2Yxa09Ub0otUkVUQ0hCTC1OUHBhRTU5UDBlRVZfNEx4cUtoVXRRanEwazFaQTBwYmpBREc2MVlsaVlDNWptenNNZkpDNzd2blFtS3pJX0oxWDl2RlcyMFNucDRILTRlRF9iUWFPRTA3VFo5NGRVZUJTaDkyTmpYcF9xcGJtMw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:35:47Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "dd769ee628b8304ae4530ba0",
-      "title": "ARKK Is Down, But These 10 Cathie Wood Stocks Have Soared Up to 285% in 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeldHbV9nVFFxRTFsZE1mV3JwRllFTm55eHhWcjdlUXJYOGxZeXdqWkNoREU1UHZTNEVjSDZkU1FnRi1fNzRYUVpqOUw2eWJlcGlQVkFSYzJmalF4bm1scEFsSEFHZHBkYjdDTUZMRnJJMHhXTTNsV1pFNEVuel81REdLSFpIaTVBSmxfOTNibEswOW8?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:31:03Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "e3e73a99a498cb2c45cfb137",
-      "title": "FTSE 100 slips as commodity-linked stocks weigh; UK inflation at one-year high - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeEVjc0dlYzVLb2hOZkVUWGlMRnAybzlIM1ZjRXlwNG8zYW05bXZ4VXNNTlZjaVZWeThsdzVqR2x3aXpQaGpwX1k4SDJhcHNZYVZQUWdlRnpjQ3lYWm9YSXd0QXhJNUJ5SWpQVjd0NWZSV3lLbENOTFpWOXJoT1Vvc2dyclMtUUtnOFo4MFpoUTk?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:20:47Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "cc0e7a92efa226b77b329fd1",
-      "title": "Concluye Congreso de Tlaxcala la aprobación de las 60 Leyes de Ingresos municipales para el ejercicio fiscal 2027 - Urbano Puebla",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQTMzREtrX1dOY2VKQmlwS2Z4MjM1b0dGdEVoX2FyTFVNQ0h1YVdkZW04RWRmTjBPUkFNTmQteGRIbENhOGxpRnJsa3pHTlFuU1JjemttYURSRXNQYS05S2lNU3haTHBfT2NFdW1nYm9tTHVWQ0lZMG43ak5uUVQ0TUN4bUlxYm9FV1VpUlluaGx2RGtvZm1YY2diMGozZE9wekhoSC1zMWFhcEJja3M2LTI4Ri16bTFYdmc4UDZxRWIyVnVKbkNOS3B3TGRHX1J5eE1lRk85bEN0WHFsWk00Snk2SXdUV25rMzNn?oc=5",
-      "source": "Urbano Puebla",
-      "category": "Política",
-      "published_at": "2026-11-18T17:20:20Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "067ff73ca99fc902ef1a2177",
-      "title": "Cathie Wood Was Right About These 5 Stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQakZoSldjSE4wV1NlSGUwcUFYMVYxaGU1R09FUnRyVDRXV2dtMEthLWY1ZUdGM2E4M3R2VEdUMVRKS2l5c1lFVXBHS05PQ3o2cTBHOGxFS0dQd0xucmpYeGt3R1QtM0pnNVNENHQzQUNreTR3elItTHA1UDFkZGh1NjZtTXFlNW5hZGhRX2Fn?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T17:16:22Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "5c2cf2a8eb9ddcedaf46d054",
-      "title": "¿México está listo para dar el salto a pagos digitales? Inclusión financiera, uno de los desafíos - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSjZpSDhINmZBUGljR0xzMV9VMDljUWl0R005akUyeTdVRGhLTHAtWWx2MXlfUVllbG9tbWhBRi1HSzJ1cW5aWlpac2tTMUdNZThMX2d5TjV4OG1XeDZ4dWFvNUkwaExia0lycllJREc0Qmd1M2UyNS1Dc2tfeUVVTy1GdDhsWGRjUW8yNHlTZFJDN2dadTFsVDRYRUE2LTZnX3VYUEswU19aS2xveFJFeFVSWEtxMlF5bEJHMlByZWZ0NkoxeHBORzlZcXd3MUM2ZEJnY2R2WdIB3AFBVV95cUxPNWIybFZ1X3ItQktpNkpKTVc3c3gtVnBsTlh3LV92MFhTZFlfZXF5SmdmcEI3QUhGd0pObnJqSEh2dnM0a1VlOGV4cm1zSTRVVVlTSExFa3FzREcxNDkxcTR0SWtkRC1uZjBGOHFGaUxoaEdsN2xGSVZyWjhDcG9WcFZiQmtEUUt2OG1aY21RMm1WbHBYZnUwaGRXUGtZQjFXbW8yMEVMUlZLb0FwaGNnTURUYTlsU0VScmZPSS11N2xwSkZyaEhZM2s4amFoSWJqeV9SUUF2ZlJMcTRm?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T16:55:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "ff977f7bc3301721e93595dd",
-      "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
-      "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T16:33:14Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "b56c6dc884f1171bdfdb3e74",
-      "title": "Déficit de México en 2026 será mayor a lo estimado, advierte el IMEF - Imagen Radio",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXcyN3hsWjB2dm1HSHpjZE54WFZVdHYxSHQ0aDJYaEVSYWtOWlNaQzZXOUFEREx1amJ6VGZ2Wi1xam9aNmhrckQwX2V4WmxocUdmdjYwdXVzaDgwYXBFS0M5NDZQM2JfN3BKWXBRRlhYXzdJU0FONUdGcXJlNzZXV3Fsakg0NjI5cXI1LUdaajRNdGhlX2I4dtIBngFBVV95cUxNQkJhcmxvOE9OaDA1ckpGWm9jQzh3bC1YVDFab0ZMaDNVMDF2N3hheTlJaC1ZVVplbEk1SmhtcEROUmp1cV9oaGFNU01CeUZvblU1MGRmRXNlUkFwM0toanNHb1lkZUF1bm1lYWNtT0c3aklURllJZVRLT19DaEh4ZVk0MEZTYzZES1A4aEd4eUNQSnFBY2ZsS1FxNU5ndw?oc=5",
-      "source": "Imagen Radio",
-      "category": "México",
-      "published_at": "2026-11-18T16:28:24Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "efd4cface9c803439ff0c24a",
-      "title": "Hacienda y Banxico sientan las bases para un mejor crecimiento: José Antonio Meade - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdFVISmI4VFFGc25sWkZjY1piaGtoWWtid2lVdDItLS1DbjFwNGtnNHZhdXMzYkpibHFWYkRYZ2dJSFl4RnlWUHVpUGFWUHg4MlBiTmdlTHA4Y0tsRll0NmctX2lTS1J2NWhpTFJNVlJ0T3V6bDJDcl93ODMxRzF2UEtLMFFYTUVLUW9aOWdZdmpiVm5YMGplQTZVMkJyb2VqT1hxUnE1Z1JuSWJCbjNGOEFJa0xXMktiODBzTXJTWHBpYnE3VVl6UjZ3eHVXQ0NnNEVr0gHYAUFVX3lxTFBsNEdUT21oOHI5bFhSdWtwc0dDaDJQQmUxd0wwRVZFWDZLOHBYeXpjQkhMNFljOVBONXR5V2x0UUNLekc3VXFLX0ppQnFFRUJrQW93Um9DS3JEZnZuT0stazZkWVNsbHVyVEhoMHJiS0QzLWlYMnhIek92ZFRjWm94QmM1d1lxbjBXdDNBOU5idzFmVUtSUlk2WUg3RzVZaFpJWUUwWmZfSmdueXYwQ2xGNEdZeGJkNlJGQURiYV82bmNJdjExX2w0OTdCRWR4MGJYY3JDYm9JZA?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T16:26:35Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "693738106435c5ed006e34a1",
-      "title": "FOMC Minutes Tone Sets Treasury Yields and the Yen Follows - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTmI0SUtWUTItNWZrLTg3TzdzSldHN2JPMkRSYWgyQVZldlRFZGg2UDYxVEYzV0c2VXNmaGxEODAwT0JhQ1dEMTJlRk5mZTdrbkpLb2ZQTUFDdEtDOXhLMGtKY1B3TGk5OHVMYjQ3U0ZGV09JQllwNEd5ckxVYzJoV3A3bkpOMTdmYmJwWVFUSjFPZGRXWFhlWGJkS1Z4Zw?oc=5",
-      "source": "StoneX",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T16:18:33Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "61dcbc5f9782464f45b5a358",
-      "title": "Buy Alert: 5 Stocks Analysts Upgraded on Friday - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeGZxeEhlVkVHM2hZcXJhRElERDlYVUtpWWxKSnFzOTFVNXlfMS1hSWlFT0s3U25qcnZtLThCUi1td09sME9ralJaU0FpcmRHc3hqS3NYRkJXRHN6ZFBoZi04dFRGWExLRURrTHFLWHRwZXpCWEdjUm1ycXVLLUlPN054ZWRDVG5PYmx0Ql9CRnJQZDAzV0xj?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T16:12:33Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "7cf4061bab18aa0ab5637573",
-      "title": "Sell Alert: 5 Stocks Analysts Downgraded on Friday - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXpXT3Y0eGJ2MkxuUTZsclg5eGd1S0pCNmRmTFRwNjVxZm4xZFFLT1JnVHpUX0FuY2ltYmd3Tl9RMWFHQzNZYW83TzVPeGNjM3p3aWZ6cWIteXFYSm10WHc2R0U0eFpPUXBrNXFMQm5yMDhCMTZnZ3BBTkdaQzhKZ2xtOGJwUTk0WFBxZXBlM2VfTzNEZjhyZQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T16:11:35Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "6fd9f500274531a421e35b5f",
-      "title": "Forget Nvidia: 5 Stocks Wall Street is Betting on Right Now - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSnB2bWRjVl9pdTRQUlRxVjhvSEItQ05VYWZuSnMyOVFyNlpCMGNleFJqRFB1NW9DbjVidzRmSGtyVHpyTWg4V0pZVTl0aVdseFQ2Z01UdXRIVEpmc0wzdlVJbXl3VGtkRXNwWlRSMG1aRXdOZjZwZHpnUTFUSDRGQzA3QXp1bXZ2ZlRSTmFxMFhmMi0yU1c0?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T16:11:32Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "940a5734139acd6af966f3de",
-      "title": "Copper stocks fall as LME prices plunge to seven-month low - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcTdTb1dQQjdraENMUzZ3MXVpWDFpcE1obkJ4Q2g4X0FJa2FaV0xwQ1B3bmRrQzk1dzd2bmtDWmpVZWxZWUxzMHR6NHZPNTNkb1pOWnVURzEtYTJkWnVVY19WZlQ4ekUyNFVjVHpOeHdTZHdMNUxSd0pFVV9IZ1BuS3RoSy1iRGxHUXoyT2VKY0xqVXhab0E4Q1BZaXZaT2Z2?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T16:01:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "f27b7d2fd68dc7e55ba0eca9",
-      "title": "Dollar higher as hawkish Waller backs aggressive Fed action - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T16:00:16Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "511ee8afe8195979d16a00c7",
-      "title": "Bolsa mexicana perfila cuarta caída consecutiva - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdENJemRFd3VLOU0xVllzMFJjRDdpcEcxd2QtMERYdnlGRGVqck9ZS0RPVHZWUV9ESmJFdVVpNmUwWDVheXd3TG1PNkhpTGlOSTh1THlnWXYxc1lyVkxCWVlLSE15eVRFbzRsMUZvSklQUzY3S2Y4c2R5ek9neExWb2RsVzUtamNFOVNSYU9qVTJ4Tlo1c05UVXVyOWVNUGpsXzRhZDA4RDNkaEZrZnfSAbMBQVVfeXFMTjM3S1h4RmxxcjF0Um9aSmxXNF9MSElBT0lzN1RtUHUzTVZkOHQ1WVFUQTlTMWlnV1FMWFNZZkw5WkFWU043WnlWc0VrVU5DczM5UFVTQlZWWm9HWlhpODZYYWlpX1ZMZUpSTlRlOXhCTG1uTkQtNnlfYklVWkp5ekRnSGgyRUM1MWtUUHFCRXFyQzJIdzZlUE9SLVQ1a213MWFqTGtZc0FLMktCNDNNc2tOTlU?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T15:54:40Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "8f536275492975328b99b4c8",
-      "title": "New York Fed President Rules Out 0.5% Rate Hike - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcFpQWnp4WDRhNEJ4dW9RQWNyQmFFRWc4NWptcURJU0JUMm54Y2dkRHpIWVhyekwzQnBQMmZDYXhMSDZXNFJwT3k1WTlsV3RCTUxuZVl2cS13bmtrSGtKZmgzWnItUlpOYXlLUUhCdXRpR3VrR2R4eTQ1b0gySDJPc05ybXFuZi1FbjVYYVh3?oc=5",
-      "source": "조선일보",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T15:51:50Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "880a00c440b49cf432060db8",
-      "title": "The Iran war raised household costs in 2026. Here’s how much – and why - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbGJFUG14UE9xYm1tMVRKR2hGN0lYel9jRUIwdlg4TThiODJ1MEJOQXZGdVAwRlZ1c0Y3LVl1ZUlhdjE4WTgtbVB6bGdzMk0zR3F4MDV5cVdHajYyN0NlbDFpN1lTekZKYVZ6bkN6Tjh0OWxabXd3cThpVXpmMG5CaDdEU3BYYWoxdkRReXZGS2E1eVhVUUg2QTZkYzIzSk02TEstaVNRS0hCcVd6eEMyV2NtUTJjV1VDX0NTaFRCWXlhaEI2d0VuYg?oc=5",
-      "source": "Chase Bank",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T15:34:26Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "6d6ad304401b19346e9c52bd",
-      "title": "Here’s Why Amazon.com Is One of the Best Blue Chip Stocks to Buy and Hold for 3 Years - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTdfQjZEWmk3VGRCcVpnMkFtZ2dYQXZaT0NlNzI3OVgzZ3FxVXRZN3h3azg4VVBZbTk0UF9KT0hwZnE3WWhhOF81ZzhOOGlxVFBNNXBoMTNpWWllWUp5bmJRdHgwdmlOYUZ3RGo2TjkzX3p2Njd3UkVoR0pDRlVUMm1CRmNwZl9nWmVhTWNJamcwQQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:31:37Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "261bb2c9355ef64a462b0adb",
-      "title": "5 Best Stocks to Buy Ahead of Anthropic’s IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa3JqNFFiS0pBVzZmNXAtM0EtbkFoR21mOUpWUkFVZ3p1SjZuMWQxUkJpeHQzc3RuRFFDaUsxbHBjbDJQWlgxTXNWdFJCTGRCNWRmUEducUFXdHlGZUZFZDhNOEE5THBNNFUwUXZZOWZPTUpYckJpeXd6dkVqVHMyUzRmZTYxRjhXa0FPRjNSandodw?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:21:22Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "df257b0e64b54df669ba90f7",
-      "title": "Tech stocks rise as investors shift focus to Anthropic IPO: AlphaCheck - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa3NmZ3VzTFpycDBHaTF3WHhYWXlpMUNZeUpqM3Bud1F1Wkl0alk4dlZYQl9RR2ZBVkl6eXZFc0pCRTFYQU9PY1NpLVp0R0FRb0tSSGlWNmEwQU04STNIazJaVUVLOExCWjJpa0k3TTBkS2VCSnNIRkNWRG83YjhMQkdqYWtEVktGR2FmWHBMdTlRQVVTLVh4Z2pQcUNMdE5NZGY4cGdVOUlwY2RwTURXQmpWRV9GTmJJNnhWR3ZlTzZkZGZHQ3Zvcg?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:15:37Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "596da97dc0d7df27d1c37c43",
-      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-      "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:13:39Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "0337c321fd3708b4292fe3e4",
-      "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPajBIQVJwYUNFRGNGRE43Zm9HQlVqZUp2X0l4OThSWGk1R0JfbHdWLW9MQWNib0otSzBya3YybmJPOXlwSjRrRi14QmkxWklOV1JsZEhpc1BDNkphOUdPTmVZT0ZiZUhfXzNNNmZWM21oY04weVJNY2VfOU1TRHJERElfYllUWVNJMHdkS291b2ZuQTlhSGpqZXVaeks4cF82bjZfVlJyWUJRWS13X3RCNkxlMVRob2JnNUNPMWdUT05xX1prUjF6NURIZ3JoNjhaM1EwT3BMRXVwb09zTGNZTA?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:12:33Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "442c636a4ad45f0d8cf642ef",
-      "title": "Sheinbaum says Mexico-US trade talks 'very far along' after meeting Trump at APEC - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUtHTXhXeG5haF9PeGN6aWVDRzdwejZOZHNyWmZTTXpKc2Fwa3VsZ0Q1VnZNc3lVSmltbFdzMjQtQ2E1ZGxhZlJjX19yRHVKNmF1QmZ1eEJ3UVh2eW1HUU5qMnctQXp1d1NUNkk4XzJ4TWlibHRPXzZmOWdIdU5fdFo4d2h2M1ZhbHpGNmtGZWdGMTg2bFNGV0Z4MzNDd2syblpaa0NmeHhScmRmb0lR?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:12:12Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "6009f9da33969bbf8fe1da55",
-      "title": "Stan Druckenmiller Says He’s “Taking a Break” From Stocks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdkFGajFDUkRTNF9sX1BHZ3lhRlIxNHhUVWM1WVlkQS1DQkRFNXowa29WWG90TjJ2TC1MOHloeHpEUWYzQ0drMktQbktNUUdYUTh6N0RoQ3R0cmk5eUN5RFIyZkJ0akkyODRNMGhCT2ZVaVBSN2tsWnpKT0R2QjVKTF94VkNNcjgyN2JXS0s5Sy1mU0NZcVlwTExUa0c1N0JMVE5J?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T15:08:26Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "ee8e7d0adaf4629c742794e0",
-      "title": "Inflación en la eurozona y en la UE repuntó en octubre al 4%, en máximos desde 2023 - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcmpaYVF4aDJxUnlWN3dLcmdlRTlubFdJRi1pY0tVeEV2WUNXcEVXYTEyVG5MTjZianJuNm12eFhjRHVNWU9qeDN0aThzOGVUWUxzdDMxQ2ZOTHdhSGlNNW5YSTdlNTFqVm5mYS1OVmlVdE9idDQ5czF0UDJkQXpHdU1UdDl6SlZGaUZUcnNYbS1samtKQ0RwdVk3LWpyel81V2I1cmdNd2RsSDEzZkHSAbMBQVVfeXFMTXNhT0s3SXVGeHJtN3Bha0Vqa0g5U1o5dm9TYXdzdmNDVzBRdHBIZHpVNkVkTTIyTjg5Xy1OVzQtRUF3cWVKallhWGxrZnM1OEQzNmluWkd2LTJKZ0JnaDZHZnk4RE5WeFhiSDlsWVpwM3lRM0RXdVd4NEx4U3JhXzBJYndXc3B4dWhpRHFrWmw3d0lNem5TdzBPOTQ2LVZhUkRjUDcyMF9lQWpGQ0JlMUpaVzg?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T15:06:19Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "effffd6977c3eaff521ca97b",
-      "title": "Peso mexicano se deprecia 1% ante un fortalecimiento global del dólar - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0V1NVpfMUFLTU9DSTlSWVQ2eFp4V3JDZzNYUVNuZ3Nuc0xrZ2MxeTlsSEZaTEcxY0tST1ZnT3hjR19CdHhsX1owd0lJWHFoYzBFNmNiXzhzSnc0RU5ZdUlUWENLWWpmVWdMbWxGMWVONVNQZkVuZVp1WjBDTUN1VFU2T0R6Y2NDQWJ0LW1WbW1sUmN4WTVfVVVTenI4NHV1alhwNHVOWXFoNjB1bllZ0gG0AUFVX3lxTE5qTGJKTEtfYS1IUWh3VWpFM083OWJTM3Vzb2VpT2VGZi1lNVlsVlpPRXJqb3pMOENkTlBlVnRwRTg2QWdRdlp3Z2JOckxDeDBEZHJkNGZYRDRoX1NvUDNpMmV2YnpLUDFRb1l0dmJDZnNDN2tIS3U5TjFSVFNhdTFXeFVTOEhubmNJOUtUVGpXMUk2VzN1SGVHM1RVVGlRTF9Wczl2blI4bVg1QjJwS3V3RVNjcw?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T15:05:06Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "eef76fb466235bdf5ba74ecf",
-      "title": "Two More Days Above 5% and Treasury Yields Tie 2007’s Run - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFJoRmF1ZExJZGZxMFpXZnBGUXNmbVl5Z1h2eHJrS09RWHpZaFcxTjdaVVF0aUFvc3ZmX3ZnYUNFUW15TnhGeGhwY2EyUXhpQXlKaVJsOC1sS1NJRnVjTzNFNUxYbVRsZUFrRDU1Z053bDNHNmNDVDl0T3k5aG5HRktWNUUxbVVaUzNmZnhoWGUwbkxRMEM5TF9XNFpzbGpH?oc=5",
-      "source": "24/7 Wall St.",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T14:52:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7a21be056211c7840635010c",
-      "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHp2TzJ2Y05ya3ZTTlItZFoxczJaalNkTGJtUXU3d2VEZG8yQlJIUEl1RDdiN0hxRlE3WXAxVzdFRGRpeXRMTHJkVEE5Z09uMW1wR2VXUVZDdHBPbXdIMWk0SXdjeFZiZ3htVUF3RkxibzQ0VU9BYTdZTkYxSU8tUHFvRkNyWTVxUlFrQ0JBR0hINU9mYXA4ZEpIZ2swLWpOS2hwOGRVbzBjamE5dHFfZ3pzd1NFOHc4?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T14:45:43Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7e04ad4a8e5753a6c83daecd",
-      "title": "If Stocks Tumble, History Says Investors Who Own This 1 Type of Stock Lose About Half as Much as Those Who Don’t. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUHdVZ2VKQld5ZVpjdDZaelp1cmZpUFExeGdyTmZGd3Z3b1dUbWV3d19nR25RVFlKQVZ5X2xNbUFBbURMM0djNUU4STdwdWxYdUxCb0lPdlNEQTlwY3pYYXZZWnVvQjFHcGpUWlJYMTd6Sm9EbFdOSG1tRE9wOUxPSHBaQlE3QWFhdjR6b0toSkxCd2xMd2lTb3hPN09FcXdmbjlj?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T14:23:02Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "89d20ed4c801070f1d4950f4",
-      "title": "Mortgage applications fall as 30-year rate hits three-week high - Mortgage Professional America",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmhISHBOUHFmZ0N5clB0UXpqdTVhQjZ4bU5xRmdZa3I0ZFJjM0szblctRDlydkFaSDl6bWN4QWkyRTBTX2IzMHZkUjNJV0V0MW9fTlh2cXNqTXJLMkFCQThDTkJhM3ljbHQtNmN1VHBwSTNya2pEUUFxeHhTZjFzdzlBcEliTmQ1M3BKeFNwQV9EVVphbWFiRTJNN3hsRlB0ZEU1MWFRNVN5cTlEUk9MVExGSXRlUGlDMTJUOXQzOWx6YjBSNUwyZA?oc=5",
-      "source": "Mortgage Professional America",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T14:22:10Z",
-      "collected_at": "2026-11-19T03:52:13.369139Z"
-    },
-    {
-      "id": "dc92e16995792334510845cf",
-      "title": "Jucopo recibirá a la fiscal Godoy el lunes 23 - Maya Comunicación",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDeVE5a2VjWDB1Q2NqRXFkLTdwV3VreE9zdzlMNk54a1ExNTVJWFZYWHV2UGUydWh6Y2xjTTR3NUNBcC10eGYzaTVuZjk0d2FMSW52NnB0eG5DbGFBWkJHdVZFeUVOSko3VE42ZnNrd3lmdWVCNWV3V2dfWkVOUQ?oc=5",
-      "source": "Maya Comunicación",
-      "category": "Política",
-      "published_at": "2026-11-18T14:21:49Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "f5ac1109772a75631fe0ea06",
-      "title": "Traders Now See a 95% Chance the Fed Hikes Rates in December - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFFwb2NwNlRfeEkxTVgwTWRWazZzTEhoQ1lhWl9JME5VN1Jaa0YycGRSaEp3R1hDVm5Yd3lYYm1GUkc0MV9UaDJTbEJhck5lSHJ3S1pRaXFhNW43d3Q1bjFUZXVEbF9LZXlCSEdka3AwV1RNblh1ZFJWWkNLZTl1ZkEzSGlIQ0x2enlCTXlpRDNBcVBWaG9SRGtWb0h3MFRxX2hpQkZB?oc=5",
-      "source": "24/7 Wall St.",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T14:08:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "cca0674859faab39212b8ad6",
-      "title": "Gold plunges to 14-month low, silver tumbles as Fed rate hike bets intensify - Kitco AM Report - Kitco",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1lPTzhpcGxNNEc1UnNNUl95N0tVaWhyM21jaHlsY1BkWFlKM25DclBGZXBoaDFZaWJNbzNubU9FZTV4UzgzMW52Tm1TUkVkRVRfbjlrekhKVmxzcWdHT19zTXJpbjdiaGNDTU5XenB2bWo2aXd1cHh4emdfR0xmaVU2MmtZdjB0akt3MHhnSXNUeGNVemRCZHVWN3lmS0h4Mm9QbGVBdHlUUndrSVpDVDV0VDl6RmFyYjJENkRB?oc=5",
-      "source": "Kitco",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T14:06:27Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "cb0b1cc293b077c4ecf4a806",
-      "title": "The 3 Best AI Stocks to Buy Now (Yes, Nvidia Is One of Them) - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2lIN3NYUWZiUGNDU2lOcVgxUHZheVI0STc3MXlReVZ0NEllc3ktenRlUXZQT0g2T1VrN1JlLUJXMzlObUxKUkJxRW0tMWdwdDU0RjROVWJaUVJSM3RIRTBpSm1uS25rQW95Nm96NGVJRXJlUUZBOXdERGc0bTdsRTFZVWh6MU4tZ2RXY3dn?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T14:04:02Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "25c5d1ccf655eff7032185e5",
-      "title": "Grado de Inversión: México frente al riesgo de perder la confianza de los mercados. - Cadena Politica",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRkR3ck1fY3VFUkVkTVRIdEtuQ1hVSlVrT3Z5b3NXbmJ3cHNabEhJQ2NDZ2pUVnp4UE5LNlg2b3hIU0NoVjNYV3VGdzVJTm1VZFhXYm9iSVNZQXViMmxiUEFPU25LSkNCaGVxWVdRWHBHQ3dmbzhRZm53WkhQaEpKWms1ZTRwUEhWbTZlM0NhRGZNVTlSYlB0VGROaEx4cXBRd0xRak4xdHhCYXZFUl81M01DV1pIY0pSQmk0TQ?oc=5",
-      "source": "Cadena Politica",
-      "category": "Política",
-      "published_at": "2026-11-18T14:03:46Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "d77ae5174d79d6725fa42247",
-      "title": "How inflation is measured: 12 terms that explain the number behind the headline - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9admsyNG9HV3Zrd19SSDlidUZLWGNUQUtMOUFFX3FlSk11V1hoQWQ2VEFSUmItVmdMcnNsbmlBZ016LTVOSGlyZnZmTnJvcEliNDRfZXBqVEQ2ajlJMXRxeHZaMFI?oc=5",
-      "source": "qz.com",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T14:03:27Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "33c6cf9e4fd40223877d02a8",
-      "title": "U.S. soldier taken into military custody over suspected spying for Russia",
-      "url": "https://www.cnbc.com/2026/11/18/us-soldier-military-custody-spy-russia.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T13:58:53Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7afa67b7bbe451a2bbe22f45",
-      "title": "Why the Anthropic IPO could be a trap for investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZkFDQlhZTkUwanhoT3JzRGVBYVRFeThMWXQwVTl6U01SekpYMVA4ak95WWh0UXl2TWk5aUFIekVWX0Jxd1BSSVh5TmhYVFNHWjg0NVFuZzQ5T3BMRzYwUWpSVFJmRnI3c1ZHRUE0WGdIdzRiblM1Mlp4anlaVEFRRHU5Vi14TDNBdzRBdUJKVGhrMGtiUkdTY0lhQ0Vfa2tQM1FhX1JzdDU3dWJJ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T13:55:04Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "22626cabf7cc4c319d2006a7",
-      "title": "Waller says on CNBC the Fed needs to get more aggressive in inflation response - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXlxVDN3aWk0RnZkVEVhSG1pSlRRWFhHenRKbkwxY2NueDRkZWFjdFNFaEhCSms1TlhHRkJqcy1WYUg0ZXNpajZBb0U5RExDZ0VqRV9MQUkwQ2FyTGgzTTdnUUN4RWJ4YzhHRHNEWTVyNjVfMW5UREhiQTlIclQxNFZkbDNJY1l1azBWRTdvQ19LTGpGb1VFUlh2WDRJZzZWcmltcXcxWEhFUGFSQjJYSGhR?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T13:52:20Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "9c4aed0db462f183629f7c0d",
-      "title": "U.S. Treasury yields retreat to near one-week lows ahead of Fed minutes - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbks0VjVqWE4ybGUtR0UwbFp4Q29jcmxNbm44SGF6eC0yZDFkVm5MTFVWVno5emVBY2dMazktSG1HOHdRNU8wYWNJYXcweU1XY0pqUHJhOWcwaUxDWTRESzZEdnNSZnNhTjAyb1ZfOUlGSmRQd2drOTZfOGhtT0prOG9OM1ZWaUxqZmFudHRDbEtKYXY0T25wRUVzbXF3M3dSQVAySkc4RkFvQ1dVZ08ydmFpanhFSTB5em5WanJBN08zZlo0WUFXT3dR?oc=5",
-      "source": "Investing.com",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T13:48:41Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "fa9413afe350eca05ff18d7e",
-      "title": "4 Dividend Stocks Yielding Over 6% That Fit a Roth IRA - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWmY3bWRPNUlkLXc2NUNpeVFQVjdPekZndnpGSWMwbVVvVF9hM3pRZFNZRTNKRU5rcDN1cUxGMWE1VFBwMU5vbzdFLXQ0RnhBMmtnUTVtYXZ2bzJiS1FPVGFoRl9iNkFGa3B3aWJxWUtXR284SjdfTTRkaHNkWV9IR0RpOS1LTjZnTmwyZ0ZOOWtmQ0hyYmtneHI4ekM?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T13:30:54Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "55579ebccefa7438cbe8ddd0",
-      "title": "Océano azul: cómo crear nuevos mercados e involucrar al talento en la estrategia - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQV94MGJjcFFYQU9ROTR2WUtnN2pWVk9oR1htVWpRdE5ZR2dvcnVPMzhyZVdsUHdYckNfb1RyMS11eHBLdS1sU2pyME5GVGp5cTNkMGZiSm1YRnBUY0x5dmxKVlhNVXRqR2dQWTJyUXFHUEhpbi02Ql9sb3VoSFE3ZkRYQkZaWmdFdmJ6ZUs2U3hMRFZVWXU5VlNCQmRSUlpLTzF6dGhTQXBmZWRkSTlhUFFMdlAzYnhTc2tTN3RQZzJicm54aVhnMTFhMjbSAdIBQVVfeXFMTWMxWVlsYXc0SHF0UHRfa2kwdDA0bXBaeC15TDFlbTRrbmNwNm9CSFZIU0NmMXF2X2VfSktYRkw4TnJJZ2NuN2lyNlN3ZGRuTXNTcWlsY3FKZ1NhMWFqLXlLY1htOXFJcEd6anpFUEdYdFVsMlQ5SlZxaHR0Ujh1R0kxQTZ5dE1fZ3VWSXd6WTVmdUVaSWlkTzRESzRvWXFOSUNOOFkzSXRraDJDZm1rTXlhNWdSZjkwY0lMUWNqdThXZ1ZLeDBGaFVUbzUxaFBLTTVR?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T13:00:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "bf1dc50275aeff132ba1750f",
-      "title": "Sheinbaum mantuvo una muy buena reunión con Trump; \"seguimos avanzando en la agenda común\" - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQV9lT3lpdllGbEVBblZ6MnJmMF9qbTZjbm9IcWhQSm0yOUFYeTZfbGt1T3daQ0JUQ0wxdWVzT0wtYl9SR1JnZXdNTGJ4d2ZqZV9DTE0wbUY2MkhpcW9CeUVlWXhkY3hodURlbDMtdFp4M0Q4N1M4MDJOWTlST2ZCYm9QTEJmZnRGb2FzeVhjV1FaN0tadkRDTnhLMDZzanRfQlp1bnJWZ3dWVjlpWVlZa2xUb21DeFFHRkx3SzJOaWlZMkFsaGVjWGFPTdIB0AFBVV95cUxQYXVjTkd5RklLNjBXNjFGc3Z2c0tUc0pibDNZSlNZMEdjV01PTjJaMEtrQ0haMzZiZlBlNzJEQ1lkeEl1S29hWFdwbXJvcE82SjdiSzBxRnRkVnB0Unp0TWtmZUh4MnhRcHg5c3BHdWNZMU12NEtjNnNtSXBCLVpBR0FGNFJLU3VMMDh3YVZGU0NXMktQQjBLSkwxenVyeUwtUlZKTmx3al9mRXo2WTBlMjBpN2NueXdnaHRzRXZ2Y1JmdjB5TmRpdDhxOTI3cWVS?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:59:12Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "437d564d0b56f12f603baff8",
-      "title": "Democrat Mary Peltola wins Alaska Senate election",
-      "url": "https://www.cnbc.com/2026/11/18/alaska-senate-mary-peltola-wins-election.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T12:50:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "3a45776c06b4c81526e5ad24",
-      "title": "Precios del petróleo caen tras aumento de existencias y enfrentamientos EU-Irán - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjdNT0ZKWmNFZGFqRTJLZDQ4RjljNlNyYTgtN0cwaXIxOTdpdkxuZzhCbS1saFZGdlhqY2ZUX3ZiSkJtYmQ0VGxzOVZmU3UyM3doTDB0UlhWOXp0UG1PU19lWEowdXAtTnF1YWI4QmVzWHlQM1RvcDhxZVhySFI2ZFJJekM1VGFxdWJoaUtFVDYzdV9wcGJfbkhRdWlyUExfRXBJM1JvUUMtNzB5VTRwc0s1S1BJbjBsYm9iTjVJaGo0UVVzQWfSAcsBQVVfeXFMTV92bEJFRFZ2R0lRTmVmMGFVOGE3MXU5Z01oWkNiZU91clk4S2xONnBwT0RhMWVHcEdGN3pOQXZiXzZ2WHYxYk1EQzNNNFZhcGFDNTlDX2wxX2hYYWpGazY4akJBTUs3b3pBaEpuUXJhZHJmOS1Wb1lDUEhhMWZyOUFUMWZZalQ1WkVfT2xoU1psZHpob0QwVG1QT2VfV3RNNEU2WV9PR0pfckhBMWtlaHFORGt0OXRYUk1Rb1BLN2pnTkhJYWpUWFNxZlE?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:49:24Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "28238f1906c4ddff7d5245ab",
-      "title": "Precios del oro caen 2% mientras apuestas sobre tasas de la Fed impulsan al dólar - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPamtralhkMDhRcXVEc0UzQUlDbnBiYXJUZmotSWVpaFFOajRlNC1SeENUWWt6WGsybF9oR2dyVDVhNkowYzRnWE1vSk00Y194N3ZlQWdnc0VxNEw4ZzRUTnNURUFjRC1rN0RyMXltN2E1SWR1NHlYU1VKNlVCcjl1aXVxa2NsNFMxSERQbXlSaUc5bjdBRUFjTUFsNFJERUJYS0xWckRfc1RDZjR4TlJlN2VOdXd6ODJwcU85Y9IBwgFBVV95cUxPSEJwd05ZQkZ0RWhDT0NibVVaY2trcngyYThBU0lJellvb1lBMHltZzg5QS1XVk80UjM3cUtjU2NvclR2bFFObXRKVVRKbFFka19zY2FqZGJzcXY3cF91ZmpsdU53OFNhSWV4cHI4Snh2MlBhWjZicVhUV0RpY2pjb3I4VUtBNGhOR2xBbjN3ZzhaV0w2X2JLd2I0RVliOXJWazZoMFloWnpiOW5ueXQtakZBMms3NWFBREd0OXM0VmV6Zw?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:44:32Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "84fc8544163fd913de6ce3e4",
-      "title": "Canadá reajusta sus lazos con China y busca un acuerdo adecuado con EU: Carney - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLUtOUHpPcWRmMnN5VVZwMVlKMmo2VWRPVTRSUXJSRGM4SWhRc2ZxSWhSOVl6eEJKd0FFSEpRcmliV05pS24xM18wdzViRXliYno3aFdPQU9CX2dQM3pzbVFoZnVCU1Z6NV9vTG1oN2Fsdmp3M1FkQjhNRzItV3dHU0JVd2FzdTFXYmRxMWFpZEFYNVowWWFJNWdaS3hHaFZUVmFld0NXTVAtVmo1MUQ4d3ZzaGN1amlxODNhaWlid2RQN0ZKMzA4TdIBzgFBVV95cUxNZENHWjdTekluSnlrMTFzdFg0dS02cVhyUFpyNDhiRm1CTFRjWWkyUVY4eGI0SVM2YU9YcFhGVkthWWs2MVJUNXc1U25nSU9zSWtWNWwxNHl3T1NTTU1vQ3I3VENMQkRxY1lDZFNDYXpzX1ZhM0JzMzgyTEQxWE5DYUE5cl9hMS1GZFhGVXVFR2gxcEhtcEVPU01sTkZmMFZOdTlISEtoQklMSG8xWUlyZ2ctUDgzX3U1bWlBSzZ5ekw4ZWZXWmJma3VDRjNGQQ?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:41:01Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "e656f04062fac933cdad6e03",
-      "title": "Periódico especializado en economía, finanzas y negocios - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoaFk2V3VLY1pvU2RYV3FNMTdOV3FCWmk4aVZLUXI5Nk4wUDBfU0o1WHBSZFp3WjNpVW91cmJTYU5EejktM204dDhCRWNTd2lqWlN4TjNYeWtGaVFYUUQ4?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:38:48Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "78184a551b09304d38f66443",
-      "title": "India signs $211 million contract with Israel Aerospace Industries - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2xkTUF6aEZQRmlxZ3RHcTZQT3hnTzZHNkg5TFJ3RGF4M2FhRE5aQS1ieW9rS0hwRHdZZEo2WHctSFRIbHF1aWRiUklwZzRtMmExVUJhWmxORUxjYWRreGQ0RTFNX3ZEdmd5OWVPdE8tQ19qTjNYVjlyNWpjRE1rU1k3Sm51ZFlTb1lWMHhXbU5fRVFtQ2FwN3VfNHFuTmd3SmlvT2M1UzFHcHNvMDlNNlI3VQ?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T12:31:35Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "f2f82aed5c8aa3a00a4198ed",
-      "title": "Trump arrives in China for historic meeting with Xi, Putin",
-      "url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T12:24:24Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "49b368bc697963954046ea5d",
-      "title": "India's RBI says Yes Bank AT1 ruling could weaken future bank rescues, filing shows - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUw0YUxNVUVtcWpnajdqRnJhb2JSOWFKdS1GNGxNTjFvVC1ma1JVTlIzdDhUcktaWjFLVndUTmoxRU5iMldLSHBWQktfUmt2Z0tUYnpEd1U0S3g5SXlyTldtUEtsRFNSRXdzaWd0SHVocjU5cjZIZ0RINzJ4S2MwLVJHd2k5ank1emUwV21pbFJCRjVnZGJqYU15SnBjMHk4ZVVVSm1odExCeHFFUmtPME9ia0NMQUo4RTRING90MW1pTEp4ZGI4?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T12:23:43Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "0e8f1b7c560b2291c8e17448",
-      "title": "Anthropic Approaches Final IPO Hurdle After Tech Stocks Churn - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS3QwV19XVGtaOTJ4TkZDbjY2OWlXQ1dkT1EyeVpSUFlJRHNsOVF6VlBvd1E0RjlsRjlYdDZLWjBuVll2X2x5T0s0dGFLSUYyMjVTOHRvQWlYaFFTTG5aaTNwVFd5TmdXQVhORHNreWhyQU82MEk5UWx1b0FqTFNLeW9Xb25idjEySkx6M3ZlNXlwUTd6NUxObFFfUklMLWFITlBz?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T12:23:33Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "fa4ef976bb6d83a15cb842f0",
-      "title": "El modelo exportador mexicano: las preguntas de fondo - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTROU3BpX0RvbDdkWWtyT2lwRXB3X0hlem5fOUFOTDdxaXRTYmlkd3gwXzR1SEkyWGdaMW9ObVRqZ3ZHRmI1VVZJY3drb29Dc0F3SjMtX2J2TW9QX2hqRWp5aDdLSENQbHdLT2ZJcEgyazdrM1NxXzRlQU8wdDdEaGF5QTBIVndHQU8xZE1YNXNUMWU2cEtraXRxZkRjcWxlQWxCcUtB0gGrAUFVX3lxTE5Yb2ZtTW5rbi10UVlTeFZzRTkzTkdsN205QmdjMjBVSVpiV1h5ZTltU3JBYnZCUFRLZVhNT3BaMFAzVXBiMFpYQTZ4QlVPQ0JlQTZuYWZkdmZRN2FudnFpczhSVkNJazFNcTRVRm56TEZvc1kweGJjcVFKbDB0LVNwSGtLLWlPSnBJZUdKZnlxSU1WcmdTRUtjcHlZMXZjd2ZJeTRnbjBPWWEyNA?oc=5",
-      "source": "El Economista",
-      "category": "México",
-      "published_at": "2026-11-18T12:05:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "7dc56ac330a21041b518bb57",
-      "title": "Nvidia delivered a monster quarter, then its new leaders stumbled on the earnings call - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWHduOGpwX3ZHWGR4TXQ3VG1mME5ZOUVzN0poZXp4TUUwZUJjcVJCZ2JtbDBsdWdkYWxjYUwxaU1LY1c3cU02ajQxeTY2c3V4c0Z2bjJPNDBqNE54ZVRZM04wdDVmWUZTeW5DU0Z4Yjh3S0ZNSi1NRjhuNW9mTE02alZod0FmSEE0SHhXWVR5RURSbmFwMlVJc2w2UlMzR1htSV9fRVI0a2dIQmpLMFVKX0FqMEJHamowWlVHRTRKbkJYbUo1Ni1YVVJOSUh5alo5STVQQ29rQTNiUQ?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T12:03:32Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "352e051891518e1ba7c2b019",
-      "title": "Principales cambios de la reforma fiscal 2027 - El Economista",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOckpvRjQ1bjY2c3VJTDQ0WWsyUE1sYWF4ZkRYOXBObEtoZDNtTHloOXBvUzB1LXFrNTFnWmZERXhWYVJLMFltb3BjdDNGTThad1R2bTZ5U2VmRFJKVmthNU05WUxUaW5odWZHZlAtM1R1U3M0bDQzeFVWamg1TGVyUUJWbDFqZXE2QV91cGU5MGZyT2pHM1RqaXNOUdIBoAFBVV95cUxOSDJhcGgtS3Q4Mk8wYVdSblVvdTRlcHF2MFpxamFVTG1XQ1pxNXhVMGE0Nm9DNEJyTXJOd0h6MWpnOHAzb3FNZy04WGdTMDdiMkJ3NjRGdkhNNkRoeVNnMENLVWlka1JNS2tFSmI2UGE4OEVJbklZTGVIQ1A1VS1yMDlFdW1hT1dvS2RvYlgwcy1PcVJsN0h2RnJFb0J1NFV1?oc=5",
-      "source": "El Economista",
-      "category": "Política",
-      "published_at": "2026-11-18T12:00:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "9a135c705acad9fe0cb05df9",
-      "title": "SAT recupera menos dinero por revisar a grandes empresas, pero cada auditoría le deja más ingresos - Expansión",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWRfYTZsM1NEYlpHWkYxU0lfYkRyTkZNQ3RaTmlLTDBUcHVDMS1UZ0dFVkJZRGxRUV9obmZzRmpIeWFOZ1JlTnJsSnZLQ0J3QnB1LUw5bGgxdGd2T00yWWIxc01obTNFZGd3aGVqTzl3bGdaZ3d0SUNtZ1lEMnowaUVzRUJVRmRPT3BkVXdtLWUtT281N1p5N9IBpgFBVV95cUxPbkgtbXFoV3V3S3poNjY1N2RrVmxHOGpoWHAwNVplVWpnTnhZa0pFWDV6ODhkaDhMdkFfZnc3M0llZlRSNTRkQzdVazNycHEwWTkwZGdEc19uVC1oNE5kQUNLYUUzMkc2bHhhSThBUEdfYUV5VE5DQ1EzamVZdXdpSDhMMW1tekJJMVA5c1dSTjdOTGluMVpnMmlyNDBFUUdWN3QtZGlR?oc=5",
-      "source": "Expansión",
-      "category": "Política",
-      "published_at": "2026-11-18T11:55:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "f27eb09c8c9b2cda1f06b544",
-      "title": "UBS sees S&P 500 at 8,200 by end-2027 on earnings strength, resilient economy - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV0lINnoxcGVVcHJmRzZnclQtZ2VMaXE0d1ltZjVGUDRtMnhfMUNzRWdVNDNoallwTjM1Sm1qUHVCblJFV2dpQkNPRFV0QnlNYnN1S2N6ckQ0SnNxNmY1bmU2N015SWF3ekpPUkU1dmx0cGhhd1kwQ2VYTEprYUxTbkVSZFNSMnJ6bjEwTE1BZXM5TWJablh5Rk5ua3ZTdGQ1amZUV3dyRDJIOGozYVA2STcyWQ?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T11:46:09Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "99ea8884306e7ab86d1883f1",
-      "title": "Developed-market fiscal deficit to hit highest since World War 2 outside recessions, J.P. Morgan says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmZ5RHk1VFJGT0dBY05Belp3eXlUZERJY2xnQkg3MXFFd2hMQTZwZmNicGhTUmowNk52TXNoNFVDZ1pVVHFzR09EcmFQbW00NjFkWnF4UnRIOTdSUE1LTEI2aFZrSjI0MUo3QTR5Vk5oQkhvRFk1Nk9Rb25Pc1FpTDVaaDUzUklqR3NGT1FsekxVMU9QZEZhQVRGMGNtN2Q5b0lKakx4MzFkOEJEVVlvOXd0OUFGc2JjM3dENTE1QTRCUXM?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T11:44:23Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "31626d5feee19e6cedb4c299",
-      "title": "COMMENTARY: AI screen test - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDJVSEdCMjc4YXBxX1ZPMUIzWGdZaWtBTzBoOF9CTzFVUklDUnFMSy12eWVra1pCMEo3UDVxUjdZcUNfUUxzNllEQXFPelJOeHRMclAxc0VNQlVqWmRsZi1JY2dOMXdYaEtMYlFvWnFqel96SG5DUnBwN1E0WGJGZXJxMnVmc1dka0dtRzVTTXdoOW9mX3c0?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T11:38:37Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "aa150e300098d9cae6aab5b7",
-      "title": "Una propuesta de reforma fiscal - El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB3Wmh3YWp4LVpqMk9hVTA1Ykl6R2swZ3BoRVdZUUNsQW1paE1xbXdHaG9JS2drYmpHM0xaZHlpa0F1Z1BLRUN6VkcyWUVJZDB4THUyOG00VDdFV0NlUDA2M2VDbFVOUQ?oc=5",
-      "source": "El Sur Acapulco suracapulco I Noticias Acapulco Guerrero",
-      "category": "Política",
-      "published_at": "2026-11-18T11:21:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "fdff64a6494d3abc9385f162",
-      "title": "Why Salesforce, ServiceNow and Microsoft Stocks Are Falling Before the Anthropic IPO - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTRmZ0hGTHNsVXJjYi1fTW51Y19TZExobjdJMmJQQ3F1bThhZjZJaC1MYTI5WldwQ0lBNWN1SkdEWldaNHVpc3JydTVWZU9Hdi1oR2F0eENKMXRZXzBCQWI5eFdWbFNlcE0xNzlveGNnc3c1TEdwZXJyRnhSNVNpNEdVbU0xSjhvQlU5aUo4SGwybXloNHFWSUlxMU5LRHB0RU16QkczeXpaM1k?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-18T11:11:55Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "73d0fc1e670b40213846cfed",
-      "title": "Ukraine allies reject U.S. criticism of deep strikes inside Russia ahead of Trump-Putin-Xi summit",
-      "url": "https://www.cnbc.com/2026/11/18/ukraine-russia-war-trump-putin-deep-strikes.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T10:49:37Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "a08d6064bf868038ca1fcad2",
-      "title": "China’s military seeks Nvidia’s advanced chips for AI capabilities, commission says",
-      "url": "https://www.cnbc.com/2026/11/18/nvidia-chips-china-military-ai.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-18T10:45:01Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "a400b13955ef90bdebe24092",
-      "title": "Gold Slides to $3,790 as Fed Tightening Expectations Push Prices Towards 14-Month Lows - Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pUFFOLTd6X0prV3VHaTBGWE5kZy1vcGFnZnBwTE01eGFMVG5FdGU2SFBnSVlXZFN5cHQ2akVkSHU1blRkVG9jcm53Q0xnTklLbDBWYldnbDZJZkloZ0wtRERDWTRpRTNiTjEySW5oQ0NSOW9vZzV3Q193?oc=5",
-      "source": "Yahoo Finance UK",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T10:29:34Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "33d2adfa6988a1d7edc080be",
-      "title": "Wall Street ends mixed after Nvidia earnings, Fed minutes - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUw0WGdCZWFQMDBna01NRTEzWEQxbHlSU2RHS2FFX0dIdDc5Si1kQjdzRVFpSTRLeThVQ1V5NG01UG1HSGtJNFZOYjI0OHpIbHRvWjdNOFNjZWhhYzFTWVJJVklORUV4YmJoOWhjd1Nhc1hULXVVYncyUmZUQjJwMFh4RGJsSFhhcjlwc2NpVUhNUEdfQXdsekQ1c3AzZVlZcUdSN3ZlTDJUQ3g4WjRlNHhydEJ2OVJTeHpj?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-18T10:28:00Z",
-      "collected_at": "2026-11-19T14:27:31.370347Z"
-    },
-    {
-      "id": "be4789e54a8b043ce1c8d9ea",
-      "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-18T10:26:01Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
     }
   ]
