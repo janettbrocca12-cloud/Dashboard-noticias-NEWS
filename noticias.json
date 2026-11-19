@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T03:50:40.421702Z",
+  "generated_at": "2026-11-19T03:52:13.369139Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 379,
+  "new_articles": 82,
   "errors": [],
   "articles": [
     {
@@ -808,6 +808,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "441fdb6c9d4f946a448365fe",
+      "title": "Fed Governor Barr Signals Need for Further Rate Hikes to Curb Inflation; 0.25% Move Eyed for December Meeting - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9uQWhyaDVzTXFpUG5UZXJjZ0NiXzJwY2Z5UkQzOXVHQ2I5cnVlZ0NTZzhuWWNDaW9acjlzejMwYTBhbkVRX0RMMVhiX2poeWxybmZDb0k1WHpkbl9zSmM0SDc1WjhIcklYaFRXTDF6RU5ZdUVGWHc?oc=5",
+      "source": "BigGo Finance",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T19:25:00Z",
+      "collected_at": "2026-11-19T03:52:13.369139Z"
+    },
+    {
       "id": "8d7597f1e0240a08c8b79fad",
       "title": "México pierde más de 23 mil millones de pesos al año por contrabando de cigarros: ONC - Milenio",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSkZ1aVEwR2lqaEFDLXBHV1lLcHNMblYxVzVDX1ZoRmM5R1dJOThrREgtaTR2X0ZEU2F1YmFrb0VJZHN6cDdLOE9YVU1VMURPOEV2d1FMQUhMUWphampocV9TdW9SNEI3aVZaaWhJN29oTHhXV2lSV0VVS3hoVC1zcVNCSnQ1ZWpBbGc3ZzZTQ3HSAZABQVVfeXFMUGJpa1VSeXJPUVhXalZLRHJNRTcwejVVR0VibUpWOWpCTkt5emdNcDAtQVB3NzA5alo2a0hETWFkak00SHVySm43bjhjQmFNdXVJZ1ZqWlY3MXFtRlZ5V2d4Q2dLdUptRzZuMFN3MWdIZDF0Y1Joai12UDcxc19CZWRGNUVjRUpOeEYyTUlzM1BX?oc=5",
@@ -1238,6 +1247,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T14:23:02Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
+    },
+    {
+      "id": "89d20ed4c801070f1d4950f4",
+      "title": "Mortgage applications fall as 30-year rate hits three-week high - Mortgage Professional America",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmhISHBOUHFmZ0N5clB0UXpqdTVhQjZ4bU5xRmdZa3I0ZFJjM0szblctRDlydkFaSDl6bWN4QWkyRTBTX2IzMHZkUjNJV0V0MW9fTlh2cXNqTXJLMkFCQThDTkJhM3ljbHQtNmN1VHBwSTNya2pEUUFxeHhTZjFzdzlBcEliTmQ1M3BKeFNwQV9EVVphbWFiRTJNN3hsRlB0ZEU1MWFRNVN5cTlEUk9MVExGSXRlUGlDMTJUOXQzOWx6YjBSNUwyZA?oc=5",
+      "source": "Mortgage Professional America",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T14:22:10Z",
+      "collected_at": "2026-11-19T03:52:13.369139Z"
     },
     {
       "id": "dc92e16995792334510845cf",
@@ -2059,6 +2077,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "1c22d8effd0b0652c06c8b28",
+      "title": "Precios del petróleo suben en medio de escalada entre EU e Irán y temores de exceso de oferta - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWY1bHVpZ2J0TEVvdjM1OUJGR3hpaHl6VFdCM2VGSmVEb3pjWU83Q25lX21YSUY0eXptZ2RKT09iX0pTWjAxaDZLR3doMi1xSk5ib1hfbENrR3l5dXlZSjdJVHB0UllqNW1TMTBHSmU1QVB2QUo4M0RTY2pabkRNd01kTk5CaF93RTdqV1JFQlVZQk9PSEd2LVNOVG1yWnRXVHU1UElCN0laVEl4RVc5UFZXUnB4ZlpOMTNFQ0lSV1NGOWdlQXRJZzB1QdIB0AFBVV95cUxPbHZxRm5jX3Y2ZVZsMm5ZVGs5QUhvOXo1YTFrVUJndVVRMFptT3hMQUE5LUVWVWlwNVBsZjUzOUtVUEc1TENmSG1obDZZTTgtN1pNZGQ0VWNfTy1EbEVtYkE4aTdPVS1kRC1zSzZkYUFtQm1Gc1ZESWFjQzc3Sk9KM2xObDJoZkM4SUlybTY5WEJnQlpnVG9PS3lYb0FBb19oYnVyZEFhQUI4UnI5RS10ZjQzMFJhU2x3TEo1UWZjTjBRVjMwTXhrcnQxcE5DMXNR?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-17T21:24:42Z",
+      "collected_at": "2026-11-19T03:52:13.369139Z"
+    },
+    {
       "id": "70ff7051c9a2a068406e97ea",
       "title": "Stocks down ahead of Nvidia's post-scandal earnings report - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZU9pZ1RvdnkwM21rMi1tZ2J1XzZwNmI4Tk13aWMtYjFHdXhPampwaks0Qm5URHd4VW91V21JblFRYTNBSGhwZmxxcjFmMF8tOFl0Nmc4bHF3QmhhYUFQd0ZxdXBnemg1RVdSQTRWdWVxRWQ1dXVZdEpuYXN6YnZ6UzJoWC1Mc1h4a0VjRFVuZ013NnBUanJzVllB?oc=5",
@@ -2437,6 +2464,15 @@
       "collected_at": "2026-11-19T03:50:40.421702Z"
     },
     {
+      "id": "b66febc6f723e52003ce33a4",
+      "title": "Taiwán y México: unidos por un futuro sostenible, innovador y resiliente - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVFJenNMbTU5M1dsSF8wNHRlQzZ3ckk1SkhkekNVOE5pMldoQTA5N3R6cEZQTjl6Q0cyaWQ2UU13RUw0ZDJHQWN3NFN1WHJCRG1WUDRoN1lPMDN1N2xQaXpsb3ZyVk9EdW1ZemtqeHhtQTFKUzNydTA1S2dWMDgyZ0hYdkJUZUczZ0pJdU5PTW5Ia1NUbzRPQU1mRGlVU2R6RGZHbFA4bmpVejFZcmtDQW1fMWxhOE1JY0EzR9IBwgFBVV95cUxPdDlQcU81VUdjc1hoN200aHRsODN4SUdjZFEyR1lpVzlPUUxTaGZ6Vm9jUkdRN2dWajZGUjBMX29nZUh5THduMGxVYXFVLUhuLW10SWEzZ21UaUIxTkpIVDB2UXFFczBZUERSem1pTlFadzVLc2haUjU4SUo5OURRT2Yta2tDS2l1ZDBJVUV0ZC1JM1gxMGI0emRsdm5lTF9LN3NGVlhNNy1ULVppYWRLWUJZQTdaZXZBTjh1U3dTSUY1Zw?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-17T14:56:40Z",
+      "collected_at": "2026-11-19T03:52:13.369139Z"
+    },
+    {
       "id": "bd26cc4491afa0703b050096",
       "title": "Inflación al alza, industria a la baja: señales mixtas para la economía mexicana - Imagen Radio",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3QzQ1Y1MF9LMWpNZVU1dXBoRk9jRXJvLVp1ZjVQeUhiNHZLcjJ0MEFZSTc0ckdRdjNKV2k4SlJvcm5VS0lNeWw4dTNEdzAzZGZTU24zcEZJZElIM2s5NC02a1JQMU15Q3V3LWZzMExNVlo3RFNreDBRQWtfTEJYSlVGek4xVnBRVWkyU29ZdTZ0SnFmSVRyNU5rZkVsOWFidDhmdXhmd1pvN0nSAbABQVVfeXFMT0pSWlBUc01BdVJsOFlwUEdENk1uYWZZTXZoQmdSRnRUT25BTXlseTFGSmhpektWaFhNNFY3QWlKUXgtYjNnSnNGdzlseHlaekRKVE5SYnJ1aUYwYXpEemx0MnBzWlBJaE1uelByYlBib3E4ZUlWcnlvbE5lVF9OTldFMk5lVkpwbTR3QktKS3IybDNQdnFGRmZENzZPRjZKQ3hNeE5mR3g0Q3B0SEhkMDc?oc=5",
@@ -2668,42 +2704,6 @@
       "source": "El Comercio Perú",
       "category": "México",
       "published_at": "2026-11-17T10:00:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "b8cc1d5c48100697446724cc",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T08:52:45Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "04e18326e15dfe448ac736aa",
-      "title": "Treasury yields moderate as investors parse retail sales data - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
-      "source": "CNBC",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T08:23:51Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "73d639075775c94b6074dd4a",
-      "title": "Déficit fiscal de México superaría 4% del PIB por sexto año consecutivo en 2027 - EL CEO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2xlQzh1RHAxZjdtY05oMEhqcGVHcmNOLUg4QjJ6eXF0Z2N6S1hWWGxHSDZScGZueXlIZlRnN3FBVkJwbGFGeldIeDdGbGU5Tk9OMFNPZEh5di1QOGplMzdySUJtTnNiaGJjMW50MzV1eUk3akNGc2ZTWTl0YnRxa0ZXWW5GR01TSlpMN0VIZHZRY256NFRmVUVESQ?oc=5",
-      "source": "EL CEO",
-      "category": "Política",
-      "published_at": "2026-11-17T08:03:29Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "114fb5e494d93e86342ad7d8",
-      "title": "Inflación en México podría acercarse al 4% en diciembre por aumento del consumo - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObzg5YzYtWFZxN1Z5S2JLYjM0VW1YY3Z6dC16Ulk2dWNKZ1NNc3EweUxUTGF5SWRZZmdXcWg4Z211V0JKTEVwdTUwdVlWVnJ6MjNFYlhuNFdWRlEyMV9MUWdoZzhjQlotd2s0VVFyc1hFZlZBMFhkLVNRdmpEbEpWbWw3aGpXRzlOa2h4dDh4alZYYUQ1X0J4VWVOTkJMRG1oclR6UXB3MkxiUzhJelZSQmdlU1dnYlhqVDkybVFKWDdRbDJGaUE?oc=5",
-      "source": "El Sol de México",
-      "category": "México",
-      "published_at": "2026-11-17T07:35:47Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
     }
   ]
