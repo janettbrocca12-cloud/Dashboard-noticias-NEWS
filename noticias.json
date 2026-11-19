@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-19T04:13:27.485577Z",
+  "generated_at": "2026-11-19T04:17:52.771108Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 94,
+  "new_articles": 96,
   "errors": [],
   "articles": [
+    {
+      "id": "df616e1e690f8900585676af",
+      "title": "Anthropic, Nvidia And The Next AI Trade: Michael Burry Explains What Could Break The Bull Case",
+      "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-nvidia-next-ai-trade-michael-burry-what-could-break-bull-case/cNbLwugR9ig?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-19T04:07:45Z",
+      "collected_at": "2026-11-19T04:17:52.771108Z"
+    },
     {
       "id": "50feadb4ca12ac3587753c23",
       "title": "Dow Jones Futures Rise: Anthropic IPO To Debut After Pricing High; Palo Alto And Everpure Rally On Earnings",
@@ -2695,15 +2704,6 @@
       "source": "WSJ",
       "category": "Estados Unidos",
       "published_at": "2026-11-17T13:14:00Z",
-      "collected_at": "2026-11-19T03:50:40.421702Z"
-    },
-    {
-      "id": "dfbd459354503ad2dc61ce41",
-      "title": "German investor morale rises more than expected in November, ZEW finds - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHlKcUF5YkJhTnUyWlpxTEpzUDNxQ3FVMGZlUFNtcE5yX0diRkQzSlN0MlZiZjhkWmFYTzg0UktZOElMQjhnOURndEtiYTN6TGJRQ25zdDJUWXA4dTJNTzRyQl9YTUcweGVEX0Uxa1NvX1NFZExiUExpRWxaNGRiWE5yc0hSS2luaThDd2VWY0RCZ0xlMFR6RlVnYW9DQ0p5UXRFX1FtcUx6ckVaZ25reWY5Ulg2UQ?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T13:13:38Z",
       "collected_at": "2026-11-19T03:50:40.421702Z"
     }
   ]
