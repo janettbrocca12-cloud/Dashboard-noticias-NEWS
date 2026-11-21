@@ -5,8 +5,8 @@ on:
   push:
     branches: [main]
   schedule:
-    # Diario a las 07:17 Ciudad de México (13:17 UTC, horario estándar UTC-6)
-    - cron: '17 13 * * *'
+    # Diario a las 07:00, 12:00 y 18:00 de Ciudad de México (UTC-6)
+    - cron: '0 0,13,18 * * *'
 
 permissions:
   contents: write
