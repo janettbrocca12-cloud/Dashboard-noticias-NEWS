@@ -35,6 +35,8 @@ SOURCES = [
     ('Sector aeroportuario', google_rss('(aeropuerto OR aeroportuario OR aeroportuaria) (concesión OR inversión OR contrato OR resultados OR operador) when:7d'), 'Google News / Aeropuertos en español'),
     ('Sector aeroportuario', google_rss('(airport operator OR airport concession) (earnings OR investment OR acquisition OR contract) when:7d', 'en-US', 'US', 'US:en'), 'Google News / Operadores aeroportuarios'),
     ('Sector aeroportuario', google_rss('(Aeropuertos del Perú OR Lima Airport Partners OR Aeropuertos Andinos del Perú) (concesión OR inversión OR contrato OR expansión) when:14d', 'es-419', 'PE', 'PE:es-419'), 'Google News / Operadores de Perú'),
+    ('Sector aeroportuario', google_rss('"Talma" (aeroportuarios OR aeropuerto OR handling OR aviación) when:30d', 'es-419', 'PE', 'PE:es-419'), 'Google News / Talma'),
+    ('Sector aeroportuario', google_rss('"Grupo Romero" (aeroportuario OR aeropuerto OR aviación OR Talma) when:30d', 'es-419', 'PE', 'PE:es-419'), 'Google News / Grupo Romero y aeropuertos'),
     ('Mercados', 'https://www.cnbc.com/id/10000664/device/rss/rss.html', 'CNBC / Finance'),
     ('Mercados', 'https://www.cnbc.com/id/15839069/device/rss/rss.html', 'CNBC / Investing'),
     ('Mercados', 'https://feeds.content.dowjones.io/public/rss/mw_topstories', 'MarketWatch'),
