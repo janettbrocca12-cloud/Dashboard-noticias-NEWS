@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-22T19:17:22.524221Z",
+  "generated_at": "2026-11-22T19:24:22.427376Z",
   "status": "ok",
-  "sources_ok": 17,
-  "sources_total": 17,
-  "new_articles": 369,
+  "sources_ok": 19,
+  "sources_total": 19,
+  "new_articles": 343,
   "errors": [],
   "articles": [
+    {
+      "id": "77950d892acf89ad283c53e0",
+      "title": "Walmart Has Raised Its Dividend 53 Straight Years. I'd Buy It Before December and Never Sell.",
+      "url": "https://www.fool.com/investing/2026/11/22/walmart-has-raised-its-dividend-53-straight-years-id-buy-it-before-december-and-never-sell/?.tsrc=rss",
+      "source": "Yahoo Finance / Acciones",
+      "category": "Mercados",
+      "published_at": "2026-11-22T19:05:02Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
+    },
     {
       "id": "40c61eb731d5b7475e374e6e",
       "title": "Bank of America sends strong signal to Microsoft stock investors",
@@ -59,6 +68,15 @@
       "category": "México",
       "published_at": "2026-11-22T18:49:20Z",
       "collected_at": "2026-11-22T19:17:22.524221Z"
+    },
+    {
+      "id": "7a6967b46d94f9f0f896de05",
+      "title": "Sin nuevos impuestos en Michoacán para 2027: Bedolla - Primera Plana MX",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mRmhBdkYyYjZIMTlLSWt5YnRPWGQ2NnJfYnZFTl9zdnpXRlJOek9GYklMYXFBTUZJTTlqU3VwQzNoU0JVYjZISHFkYWpMdElZQkE?oc=5",
+      "source": "Primera Plana MX",
+      "category": "Política",
+      "published_at": "2026-11-22T18:48:23Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
     },
     {
       "id": "b9ed3cd2a876ee20dcfdc31c",
@@ -394,6 +412,15 @@
       "collected_at": "2026-11-22T18:32:39.793699Z"
     },
     {
+      "id": "21660aafd0f756a3d2634298",
+      "title": "Treasury Yields Fall, German Bunds’ Tick Higher - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT0dsM2ttY3ctRTRCZzZPRzE4aG1RNzBCeUQzUEFRbGk1VzRqZGF4Z2J6NFFXVExyX0xROFU1bWFGc3U5ZXpWR21YQmh6S096RXVFS25wcjY4QmxDTUJhdkh5eG51UjVrRVlfZHBpX0pKZkJMOFI4eVVvV1BvSWxIOWQ3aFZId2xOcXJXeGI2SlZvd0RqUUhzT2NVck1jQ3VKLUNXSEFaYXhuNzVtbm1vaQ?oc=5",
+      "source": "WSJ",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-22T16:13:37Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
+    },
+    {
       "id": "c05d85004418312b487ce6b6",
       "title": "My husband spent $80,000 on a boat, yet says my plans for a $100,000 pottery studio are irresponsible. Who’s right?",
       "url": "https://www.marketwatch.com/story/my-husband-spent-80-000-on-a-boat-yet-says-my-plans-for-a-100-000-pottery-studio-are-irresponsible-whos-right-1a69436a?mod=mw_rss_topstories",
@@ -437,6 +464,15 @@
       "category": "Mercados",
       "published_at": "2026-11-22T16:04:02Z",
       "collected_at": "2026-11-22T18:32:39.793699Z"
+    },
+    {
+      "id": "5a86a0786e9f87f3dbc7a996",
+      "title": "America is definitely rich enough to fix Social Security and Medicare. Here’s how.",
+      "url": "https://www.marketwatch.com/story/america-is-definitely-rich-enough-to-fix-social-security-and-medicare-heres-how-30678aa5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-22T16:04:00Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
     },
     {
       "id": "dce2a9f24c0bfcc611241368",
@@ -871,6 +907,15 @@
       "collected_at": "2026-11-22T13:49:04.175082Z"
     },
     {
+      "id": "82f25c51a9fec87189127abe",
+      "title": "Cómo detectar un billete falso: las revisiones que recomienda Banxico - El Sol del Centro - El Sol de México",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS0xpQ05OTXhfX2lSeHVfY1I2eUVaZVdyUlczUjBDTTA2cnRuRTZyTkdfUVVWSlJadUd2QVNKUmRuN1dwZHFvQzh1UlI3TEVfNTFXM1hOWks3LUJOSzVwS1RGS3lDMnExSl9RWlBzeGlEdXRlVnpCSGJBRmRoTTBZN3ctWkFUYTVyeW54S2l4V1R4ZXdnYmFETG9xYWU2U2wyR29IU2pzYWFudWZrLWVTVXo0bldQcW1jUWw4UnRIMA?oc=5",
+      "source": "El Sol de México",
+      "category": "México",
+      "published_at": "2026-11-22T12:10:11Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
+    },
+    {
       "id": "a8f1ad3914fbab2a413d4d8f",
       "title": "Obras paralizadas: evidencia del fracaso de la gestión pública | Nelson Shack - Perú 21",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONzJmRDM4UWFtNGpPSVBZUDNLN016d3Y5UTBYeElsUXN0REFJYWM5SDR1dThLTXNFLU04UmRxMWNYVVgtdWhjenpCVnpYOGFodFhyeVZTanFtdUVJb2h4aEpNNDN0OVZHc3FKRjJxejZTS3lVcDF6ckpVQkExRl96LXRpNnZhVnp6S19QOU9mREVZZlZZeHhJRWxrNzlhZ205cHNB0gGoAUFVX3lxTE04cEZHTEhQQnVuOEFfRFQwMUJlZGlqNjk4WWc4RGVHc1kxWUFkY1U5dE96NWpEY21YMXYyd3dDQU5VVEZ6UDU2aHhzcWM4aWhaSG9jQWx1VkM5QWt6R3FCSk5RYkpZbmhBX0J5WVZCMjVyM1VnUnl4RFloSldCUTNPS1JheV9UYVhHamF3ZU5Uck1iajZCeW90dWJfSzlyNlFXVExIQTVVaw?oc=5",
@@ -1148,6 +1193,15 @@
       "category": "Mercados",
       "published_at": "2026-11-22T09:26:02Z",
       "collected_at": "2026-11-22T18:32:39.793699Z"
+    },
+    {
+      "id": "578fc4cd97a1fa9770ce7bef",
+      "title": "Grupo Romero acuerda comprar Talma, operador del Jorge Chávez: ¿qué busca con esta adquisición? - Gestión",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTko0OGlCU3czSXhYSGUwS1pLc1FtbWhpNVNCcVk3TnBfUkxEc1NwaE9pdmYyLWNISGJoaWJmOUZSUG5Xc1lrb0dKeFdXYXdla3ZQWFptVEp6TnEtdXBPZnRzZkhxZEsxLURPZnBtWXplWDNSd3ItdmhjUVZzOGNnNk9mLWRhS19NZDVHeU5mUlhhNE5US09TRTBBajlhMEF6UjZNcFF6WHhpVThyeWZvSk1fdGpDc0c2VE85YVhJcDB3Tkg0Mjl1YzVmeE85N2tsOFE?oc=5",
+      "source": "Gestión",
+      "category": "Sector aeroportuario",
+      "published_at": "2026-11-22T08:58:00Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
     },
     {
       "id": "dde0d9978a8b9329fc4c24f6",
@@ -2527,6 +2581,15 @@
       "collected_at": "2026-11-21T18:30:17.733967Z"
     },
     {
+      "id": "2fd73a6b287195a87bcc90ec",
+      "title": "US High-Yield Business Savings: FDIC Sweep vs Treasury Yields - JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ3NYT1BYeGR4THJpa0lTVlZ4dFhqZHZtZEdHbkdvU1ZqcFFJRWliX0REdjJmemtRdk5QVFAwa244WU9BN1otSjdDR1hFU0ZXeEZmNkltd3dtR3lSeEh5dEN3Y09fek10a081MTYzVFAtNWxtTG1yd3RzdjVZVkVpa19Talp2VDhmZlpIUy0wak04VDNxTjdERndDckUydUpBVERN?oc=5",
+      "source": "JournalArta",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-21T15:09:25Z",
+      "collected_at": "2026-11-22T19:24:22.427376Z"
+    },
+    {
       "id": "75a6672b4798141aad585f3f",
       "title": "3 British Stocks Trading Up To 43% Below Cash Flow Value",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-british-stocks-trading-43-150917879.html?.tsrc=rss",
@@ -2641,69 +2704,6 @@
       "source": "Yahoo Finance",
       "category": "Mercados",
       "published_at": "2026-11-21T14:50:11Z",
-      "collected_at": "2026-11-22T00:36:05.050248Z"
-    },
-    {
-      "id": "d99d49a6649eedb70b19b205",
-      "title": "Goldman Sachs admits the ‘AI unwind’ has spiraled into something more dangerous — and it’s watching for 3 signs of bottom",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-admits-ai-unwind-144744809.html?.tsrc=rss",
-      "source": "Yahoo Finance / Índices",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:47:44Z",
-      "collected_at": "2026-11-21T18:30:17.733967Z"
-    },
-    {
-      "id": "6b5865fa91fe870db32d4208",
-      "title": "Prediction: This Will Be Micron’s Stock Price by the End of 2028 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSXhyRGVlNXphSnNRNjlFMFZiN0hLTHpYa2NtQ2Y1dnFQdUNSb1hFT0ctb0JFQjBEVEQ0ZWVneTItY05Oc2JJRzJ0a2ZNWnNRYXFNQjVaVWpROWFsTGdDcTg5ZVZyaE5LNW10bXZtNERRRC1xWDZiMmlha3ZteXNQcWtpRFlnYmQzcWRqTnNuSWZ2dzQxUjl4Q2ViT3lxWFU?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:35:02Z",
-      "collected_at": "2026-11-22T00:36:05.050248Z"
-    },
-    {
-      "id": "47e199adb898e5bd94de3beb",
-      "title": "Precio del dólar HOY sábado 21 de noviembre en México: así se cotiza el peso mexicano | Tipo de cambio - MILENIO",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcDJGeVhVNWItUjRZMnRQT0lyNUtIUUpKbzladUswTUNtak4wY1lMRURvVGQ3WmZSekdubl9vZ1RHUmZVdy1mcXFKVUVMSkhzd2tGeUVJRWd3R3hRM3ROc1ZJd3NvV3hpYUpYblI5ZWRfbkk1VC1ndDM4OXJVdlp0Zkl2UkF6ZDVRZk1fcWQzaTkySC1oLTRmSHh0bWdnLUt30gGgAUFVX3lxTFBNSHRUQk1xQUxQanhYNVdGTkM0ZXJXTU4xR0ZSLUdKNnppdzRoQ1VZQUNmTUw0UVZFcmd0WFpoUjFpWWhRbzlnOW5vUlZRbHVPc0FPVHJ3UGdsM2d2NzYyd2FPUWtKeUdCR2oxNEdsUWVwSFg2cWxEc0lTS1QxcFhGZ2R4S0R0OTlGVXU4Zjg3VzFXVHRMNUp2Rk9XbkZ1b2U?oc=5",
-      "source": "MILENIO",
-      "category": "México",
-      "published_at": "2026-11-21T14:30:00Z",
-      "collected_at": "2026-11-22T00:36:05.050248Z"
-    },
-    {
-      "id": "59ce0efd004ee13e19f1417b",
-      "title": "PODCAST: Wall Street plunges, climate talks run over, and Republicans position for 2028 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTB2Umxadk1oSHFUQVEwemljX2I5NHRjWFlPM3dsMG5lcG5MR2RRclBjWXR3WE5zLXg3RVh5d2NiWGhMREUtd0ZWNEZEX1ZGVV9rcmN5Qkc2QmZfZUVPdVFsRm4tY01qOEdNOWtQdEtWMll5MmJMU1p6V0MwWkx4M005d1dHS01XaU14d1lYRzBNVUtZVHVMMUJSanFDbjA1eC1zNERFdjY0WW5uT2EzRDlYbw?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:06:00Z",
-      "collected_at": "2026-11-22T18:32:39.793699Z"
-    },
-    {
-      "id": "7fc77ba6684941555db60b04",
-      "title": "A 10% drop for the stock market is unnerving, but it's not that unusual - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVU1pNzhXYU5zdjVDa2s4WEtmcU9UV2gxdlF5RnJmYVAxdTh2dnJLSEZOWlN1ZGFTc1VCS0VncGJEcjF1R0tsbHhaOWhrZ25IZFVneGVIelpnNWpKX1UwbldId1docGIyNjU4QUdqcVp1a2lhUUVWRFpDalZLZ1psY3ZGR2dmQ0FaY1h3aFJDTHlDX2J5TjRzS2pqOA?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:01:56Z",
-      "collected_at": "2026-11-21T18:30:17.733967Z"
-    },
-    {
-      "id": "c5ea347a48d66fe6e0f3fa32",
-      "title": "Carney Plans Private Investment for Four Airports - Wisevoter",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGxwN3pPMnFra3Q5aDVMTDNrbVMtTnZ3elZUWG96dmsxSTVNVV9ONVJrbndySzhoSWViM0ViTF92dWdzbkZfWTdmNDdYY0RmR2FVRzZ2ekRtTTVrRVBYNG1DSEJBbklqd1J6WUpJNG5BNTdIS2tqZFhjaFhFS2pqd0xzcnlfR2Ry?oc=5",
-      "source": "Wisevoter",
-      "category": "Sector aeroportuario",
-      "published_at": "2026-11-21T13:55:14Z",
-      "collected_at": "2026-11-22T19:17:22.524221Z"
-    },
-    {
-      "id": "6f9dc5d853a099298ce074e8",
-      "title": "EU leaders' chair proposes new cuts to EU 2028-2034 budget draft, suggests digital tax - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMEktcWd6MTVXNDk2WEVleTlEckNHZy1HdDNfYjhTcmZaODB0ZE9YQXlpUUdBdmpiYjhvcUJDUWNRbUh6NjJCM1NPSlNCd2NJeTE1Mlpoel83ajNSQ1lWbTdGbFc2MWpvam9SWjU2WFZBZktuU2NBYmpaTlZmR1dsQU1sZzJ5LWZQbE9BS3VjbTRKZGg3QmNhWGNVT3VNV0JPWlZXZmtNVTVXZnUzZ05NR1Nzcjc1WEJZc24tT3M5Z1Rfdw?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-21T13:40:32Z",
       "collected_at": "2026-11-22T00:36:05.050248Z"
     }
   ]
