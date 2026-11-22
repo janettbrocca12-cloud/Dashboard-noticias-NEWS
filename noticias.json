@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-22T19:24:22.427376Z",
+  "generated_at": "2026-11-22T19:25:41.270912Z",
   "status": "ok",
   "sources_ok": 19,
   "sources_total": 19,
-  "new_articles": 343,
+  "new_articles": 345,
   "errors": [],
   "articles": [
+    {
+      "id": "c327b6896e1a60fa7e14ea8e",
+      "title": "Medicare beneficiaries could skip the nursing home for cheaper care at home under new bill",
+      "url": "https://www.marketwatch.com/story/medicare-beneficiaries-could-skip-the-nursing-home-for-cheaper-care-at-home-under-new-bill-e289c8d0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "category": "Mercados",
+      "published_at": "2026-11-22T19:24:00Z",
+      "collected_at": "2026-11-22T19:25:41.270912Z"
+    },
     {
       "id": "77950d892acf89ad283c53e0",
       "title": "Walmart Has Raised Its Dividend 53 Straight Years. I'd Buy It Before December and Never Sell.",
@@ -2392,6 +2401,15 @@
       "collected_at": "2026-11-21T18:30:17.733967Z"
     },
     {
+      "id": "bc77de5986968efb158c106a",
+      "title": "Taxi contracts at Chișinău Airport may be investigated by the CNA - Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE42RmRJQ0pOdVQwdVBKSk9RTWMtdWZxV0FWVkR4Z1pkSF9YalA5eENjM21pTUd6MlV6UDF0blFUVlg?oc=5",
+      "source": "Moldova 1",
+      "category": "Sector aeroportuario",
+      "published_at": "2026-11-21T16:43:24Z",
+      "collected_at": "2026-11-22T19:25:41.270912Z"
+    },
+    {
       "id": "e8faf558bd2655bd4f07f698",
       "title": "Why Applied Aerospace & Defense Stock Tanked This Week",
       "url": "https://www.fool.com/coverage/market-movers/2026/11/21/why-applied-aerospace-defense-stock-tanked-this-week/?.tsrc=rss",
@@ -2687,24 +2705,6 @@
       "category": "Mercados",
       "published_at": "2026-11-21T14:51:36Z",
       "collected_at": "2026-11-21T18:30:17.733967Z"
-    },
-    {
-      "id": "dd47d0d2155d9a2c20d41e19",
-      "title": "5 Most Overvalued AI Stocks According to Short Sellers",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-overvalued-ai-stocks-145011459.html?.tsrc=rss",
-      "source": "Yahoo Finance / Índices",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:50:11Z",
-      "collected_at": "2026-11-21T18:30:17.733967Z"
-    },
-    {
-      "id": "5476ce05bf5e25a253a27160",
-      "title": "5 Most Overvalued AI Stocks According to Short Sellers - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUZqZGZKal9OdFRnanNrcldOMzBNVVJUNTNvbW4wdTJZVDVPbVpPd1YtOFpNdDBsMUtJUmNkMVh3MGU5U2Z5bXhVSHdBd2t4b1JiT1JaYlVMcGtSY0tDWHUtOVY0bWxtS1YtbnlwQXBqVTRKZW5vX2dtaU9MMkJlLUVKN2JkMkc1NTZRd05YTTcwSlVkUFdv?oc=5",
-      "source": "Yahoo Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-21T14:50:11Z",
-      "collected_at": "2026-11-22T00:36:05.050248Z"
     }
   ]
 }
