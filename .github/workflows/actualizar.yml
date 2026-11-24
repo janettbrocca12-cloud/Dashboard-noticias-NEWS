@@ -9,6 +9,7 @@ on:
     - cron: '0 0,13,18 * * *'
 
 permissions:
+  actions: read
   contents: write
   pages: write
   id-token: write
@@ -53,6 +54,19 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
+      - name: Esperar el archivo de GitHub Pages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for attempt in {1..12}; do
+            if gh api "repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=github-pages" \
+              | jq -e 'any(.artifacts[]; .name == "github-pages" and .expired == false)' >/dev/null; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::error::GitHub Pages no encontró el archivo de esta ejecución"
+          exit 1
       - name: Publicar sitio
         id: deployment
         uses: actions/deploy-pages@v4
