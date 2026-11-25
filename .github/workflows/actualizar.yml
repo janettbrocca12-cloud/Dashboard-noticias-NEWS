@@ -23,7 +23,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url || steps.deployment_final.outputs.page_url }}
     steps:
       - name: Descargar archivos del repositorio
         uses: actions/checkout@v4
@@ -69,4 +69,37 @@ jobs:
           exit 1
       - name: Publicar sitio
         id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+      - name: Esperar antes del segundo intento
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 15
+      - name: Reintentar publicación
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+      - name: Esperar antes del tercer intento
+        if: steps.deployment_retry.outcome == 'failure'
+        run: sleep 30
+      - name: Publicar en el último intento
+        id: deployment_final
+        if: steps.deployment_retry.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+      - name: Verificar las noticias en el sitio público
+        run: |
+          url='https://janettbrocca12-cloud.github.io/Dashboard-noticias-NEWS/noticias.json'
+          downloaded=$(mktemp)
+          trap 'rm -f "$downloaded"' EXIT
+          for attempt in {1..12}; do
+            if curl --fail --silent --show-error --max-time 10 \
+              -o "$downloaded" "$url?verify=$GITHUB_RUN_ID-$GITHUB_RUN_ATTEMPT-$attempt" \
+              && cmp -s public/noticias.json "$downloaded"; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 12 ]; then
+              sleep 10
+            fi
+          done
+          echo "::error::El sitio público no muestra las noticias de esta ejecución"
+          exit 1
